@@ -1,4 +1,4 @@
-# IronHack Data Analytics Bootcamp: Proyect 1 - Making a Data Pipeline
+# IronHack Data Analytics Bootcamp: Project 1 - Making a Data Pipeline
 
 The following Pipeline shows the quantity and percentage of workers per country, job type and living area (making difference between rural and urban areas).
 
@@ -15,10 +15,10 @@ Python, Pandas, requests, BeautifulSoup, argparse, sqlalchemy, Pycharm and Jupyt
 - The main_script.py will generate a .csv file updated every time the script runs.
 
 ### 🔧**Configuration**
-- The data base used for this proyect is located here : /data/raw/raw_data_project_m1.db.
-- Enviroment ironhack_env should be activated to run the script.
+- The data base used for this project is located here : /data/raw/raw_data_project_m1.db.
+- Environment ironhack_env should be activated to run the script.
 
-### **Pipeline usage and posible outputs**
+### **Pipeline usage and possible outputs**
 - Case 1:
 If you want to have a .csv file with all countries yo just need to put -c country and all dataset will be saved in that file. 
 - Here is an example:
