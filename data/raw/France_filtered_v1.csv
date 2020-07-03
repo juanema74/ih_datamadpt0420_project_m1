@@ -1,0 +1,207 @@
+,Country,Job_title,Rural,Percentage,Quantity
+0,France,Analytical Data Miner,urban,0.02%,2
+1,France,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.05%,4
+2,France,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.09%,7
+3,France,Automatic Data Processing Planner,rural,0.06%,5
+4,France,Automatic Data Processing Planner,urban,0.1%,8
+5,France,Automatic Data Processing Planner (ADP Planner),rural,0.02%,2
+6,France,Automatic Data Processing Planner (ADP Planner),urban,0.09%,7
+7,France,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.06%,5
+8,France,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.07%,6
+9,France,Business Database Analyst,rural,0.02%,2
+10,France,Business Database Analyst,urban,0.01%,1
+11,France,Clinical Data Analyst,urban,0.02%,2
+12,France,Clinical Data Associate,urban,0.02%,2
+13,France,Clinical Data Coordinator,rural,0.01%,1
+14,France,Clinical Data Coordinator,urban,0.01%,1
+15,France,Clinical Data Management Associate Director,rural,0.01%,1
+16,France,Clinical Data Management Associate Director,urban,0.01%,1
+17,France,Clinical Data Management Manager (CDM Manager),rural,0.02%,2
+18,France,Clinical Data Management Manager (CDM Manager),urban,0.02%,2
+19,France,Clinical Data Manager,urban,0.02%,2
+20,France,Clinical Data Specialist,urban,0.01%,1
+21,France,Clinical Trials Data Coordinator,urban,0.04%,3
+22,France,Computer or Data Processing Systems Consultant,rural,0.07%,6
+23,France,Computer or Data Processing Systems Consultant,urban,0.1%,8
+24,France,Crime Data Specialist,urban,0.01%,1
+25,France,Customer Data Technician,urban,0.01%,1
+26,France,Data Administrator,rural,0.04%,3
+27,France,Data Administrator,urban,0.04%,3
+28,France,Data Architect,rural,0.07%,6
+29,France,Data Architect,urban,0.09%,7
+30,France,Data Base Design Analyst,rural,0.04%,3
+31,France,Data Base Design Analyst,urban,0.09%,7
+32,France,Data Capture Specialist,urban,0.01%,1
+33,France,Data Coder Operator,urban,0.02%,2
+34,France,Data Collection Technician,rural,0.01%,1
+35,France,Data Collection Technician,urban,0.02%,2
+36,France,Data Collector,urban,0.01%,1
+37,France,Data Communications Analyst,rural,0.02%,2
+38,France,Data Communications Analyst,urban,0.09%,7
+39,France,Data Communications Software Consultant,rural,0.02%,2
+40,France,Data Communications Software Consultant,urban,0.09%,7
+41,France,Data Communications Technician,rural,0.04%,3
+42,France,Data Communications Technician,urban,0.01%,1
+43,France,Data Control Assistant,urban,0.01%,1
+44,France,Data Control Clerk Supervisor,urban,0.01%,1
+45,France,Data Coordinator,rural,0.07%,6
+46,France,Data Coordinator,urban,0.07%,6
+47,France,Data Entry Clerk,rural,0.01%,1
+48,France,Data Entry Clerk,urban,0.04%,3
+49,France,Data Entry Machine Operator,rural,0.01%,1
+50,France,Data Entry Machine Operator,urban,0.01%,1
+51,France,Data Entry Representative,rural,0.01%,1
+52,France,Data Entry Representative,urban,0.04%,3
+53,France,Data Entry Specialist,rural,0.01%,1
+54,France,Data Entry Specialist,urban,0.01%,1
+55,France,Data Entry Supervisor,urban,0.01%,1
+56,France,Data Input Clerk,urban,0.01%,1
+57,France,Data Management Associate,rural,0.09%,7
+58,France,Data Management Associate,urban,0.09%,7
+59,France,Data Management Information Technology Specialist,rural,0.02%,2
+60,France,Data Management Information Technology Specialist,urban,0.02%,2
+61,France,Data Management Manager,urban,0.01%,1
+62,France,Data Manager,rural,0.01%,1
+63,France,Data Miner,rural,0.07%,6
+64,France,Data Miner,urban,0.07%,6
+65,France,Data Modeler,urban,0.02%,2
+66,France,Data Modeling Specialist,rural,0.02%,2
+67,France,Data Modeling Specialist,urban,0.15%,12
+68,France,Data Officer,rural,0.06%,5
+69,France,Data Officer,urban,0.12%,10
+70,France,Data Operations Director,rural,0.04%,3
+71,France,Data Operations Director,urban,0.04%,3
+72,France,Data Processing Auditor,rural,0.04%,3
+73,France,Data Processing Auditor,urban,0.05%,4
+74,France,Data Processing Consultant,urban,0.06%,5
+75,France,Data Processing Manager,rural,0.02%,2
+76,France,Data Processing Manager,urban,0.09%,7
+77,France,Data Processing Systems Analyst,rural,0.05%,4
+78,France,Data Processing Systems Analyst,urban,0.07%,6
+79,France,Data Processing Systems Project Planner,rural,0.02%,2
+80,France,Data Processing Systems Project Planner,urban,0.06%,5
+81,France,Data Recovery Planner,urban,0.02%,2
+82,France,Data Reduction Technician,urban,0.01%,1
+83,France,Data Sciences Director,urban,0.01%,1
+84,France,Data Scientist,rural,0.02%,2
+85,France,Data Scientist,urban,0.06%,5
+86,France,Data Security Administrator,rural,0.04%,3
+87,France,Data Security Administrator,urban,0.11%,9
+88,France,Data Security Analyst,urban,0.09%,7
+89,France,Data Specialist,rural,0.01%,1
+90,France,Data Storage Specialist,rural,0.04%,3
+91,France,Data Storage Specialist,urban,0.07%,6
+92,France,Data Systems Manager,rural,0.05%,4
+93,France,Data Systems Manager,urban,0.02%,2
+94,France,Data Technician,rural,0.01%,1
+95,France,Data Transcriber,rural,0.01%,1
+96,France,Data Transcriber,urban,0.02%,2
+97,France,Data Typist,urban,0.01%,1
+98,France,Data Warehouse Analyst,rural,0.04%,3
+99,France,Data Warehouse Analyst,urban,0.09%,7
+100,France,Data Warehouse Architect,rural,0.04%,3
+101,France,Data Warehouse Architect,urban,0.07%,6
+102,France,Data Warehouse Developer,rural,0.04%,3
+103,France,Data Warehouse Developer,urban,0.02%,2
+104,France,Data Warehouse Specialist,rural,0.02%,2
+105,France,Data Warehouse Specialist,urban,0.11%,9
+106,France,Data Warehousing Engineer,rural,0.01%,1
+107,France,Data Warehousing Engineer,urban,0.06%,5
+108,France,Data Warehousing Manager,rural,0.04%,3
+109,France,Data Warehousing Manager,urban,0.07%,6
+110,France,Data Warehousing Specialist,rural,0.06%,5
+111,France,Data Warehousing Specialist,urban,0.02%,2
+112,France,Database Administration Associate,rural,0.06%,5
+113,France,Database Administration Associate,urban,0.06%,5
+114,France,Database Administration Manager,urban,0.02%,2
+115,France,Database Administration Project Manager,rural,0.01%,1
+116,France,Database Analyst,rural,0.01%,1
+117,France,Database Analyst,urban,0.02%,2
+118,France,Database Architect,rural,0.05%,4
+119,France,Database Architect,urban,0.09%,7
+120,France,Database Consultant,rural,0.05%,4
+121,France,Database Consultant,urban,0.12%,10
+122,France,Database Coordinator,rural,0.09%,7
+123,France,Database Coordinator,urban,0.1%,8
+124,France,Database Design Analyst,rural,0.02%,2
+125,France,Database Design Analyst,urban,0.07%,6
+126,France,Database Designer,rural,0.05%,4
+127,France,Database Designer,urban,0.05%,4
+128,France,Database Developer,urban,0.01%,1
+129,France,Database Development Project Manager,urban,0.01%,1
+130,France,Database Development and Administration Project Manager,rural,0.05%,4
+131,France,Database Development and Administration Project Manager,urban,0.07%,6
+132,France,Database Engineer,rural,0.02%,2
+133,France,Database Engineer,urban,0.09%,7
+134,France,Database Management System Specialist (DBMS Specialist),rural,0.02%,2
+135,France,Database Management System Specialist (DBMS Specialist),urban,0.02%,2
+136,France,Database Manager,rural,0.02%,2
+137,France,Database Manager,urban,0.1%,8
+138,France,Database Marketing Analyst,rural,0.05%,4
+139,France,Database Marketing Analyst,urban,0.1%,8
+140,France,Database Modeler,rural,0.06%,5
+141,France,Database Modeler,urban,0.1%,8
+142,France,Database Programmer,rural,0.01%,1
+143,France,Database Programmer,urban,0.02%,2
+144,France,Database Security Administrator,rural,0.07%,6
+145,France,Database Security Administrator,urban,0.02%,2
+146,France,Database Security Expert,rural,0.04%,3
+147,France,Database Security Expert,urban,0.05%,4
+148,France,Database Software Technician,rural,0.06%,5
+149,France,Database Software Technician,urban,0.1%,8
+150,France,Database Specialist,rural,0.04%,3
+151,France,Database Specialist,urban,0.06%,5
+152,France,Database Tester,rural,0.05%,4
+153,France,Database Tester,urban,0.09%,7
+154,France,Databases Computer Consultant,rural,0.02%,2
+155,France,Databases Computer Consultant,urban,0.06%,5
+156,France,Databases Software Consultant,rural,0.02%,2
+157,France,Databases Software Consultant,urban,0.05%,4
+158,France,Datastage Developer,urban,0.01%,1
+159,France,Director of Data Operations,rural,0.06%,5
+160,France,Director of Data Operations,urban,0.13%,11
+161,France,Electronic Data Interchange System Developer (EDI System Developer),rural,0.06%,5
+162,France,Electronic Data Interchange System Developer (EDI System Developer),urban,0.05%,4
+163,France,Electronic Data Processing Auditor (EDP Auditor),rural,0.01%,1
+164,France,Electronic Data Processing Auditor (EDP Auditor),urban,0.07%,6
+165,France,"Engineer, System Electronic Data Processing (Engineer, System EDP)",rural,0.02%,2
+166,France,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.05%,4
+167,France,Field Traffic Data Technician,rural,0.01%,1
+168,France,Field Traffic Data Technician,urban,0.01%,1
+169,France,Flight Test Data Acquisition Technician,rural,0.01%,1
+170,France,GPS Field Data Collector (Global Positioning System Field Data Collector),urban,0.01%,1
+171,France,Geographic Information Systems Data Administrator (GIS Data Administrator),rural,0.05%,4
+172,France,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.1%,8
+173,France,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.02%,2
+174,France,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.05%,4
+175,France,Geographic Information Systems Data Specialist (GIS Data Specialist),rural,0.04%,3
+176,France,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.07%,6
+177,France,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.05%,4
+178,France,Head of Information Systems and Data Processing,rural,0.01%,1
+179,France,Head of Information Systems and Data Processing,urban,0.13%,11
+180,France,Internet Database Specialist,rural,0.04%,3
+181,France,Internet Database Specialist,urban,0.09%,7
+182,France,Log Data Technician,rural,0.04%,3
+183,France,Log Data Technician,urban,0.01%,1
+184,France,Maintenance Data Analyst,rural,0.01%,1
+185,France,Maintenance Data Analyst,urban,0.01%,1
+186,France,Marketing Database Analyst,rural,0.01%,1
+187,France,Medical Data Analyst,rural,0.02%,2
+188,France,Micro Computer Data Processor,rural,0.01%,1
+189,France,Naval Tactical Data System--Combat Information Center Officer,rural,0.01%,1
+190,France,Naval Tactical Data System--Combat Information Center Officer,urban,0.01%,1
+191,France,"Operations Officer, Afloat (Naval Tactical Data Systems)",urban,0.01%,1
+192,France,Oracle Database Administrator (Oracle DBA),rural,0.04%,3
+193,France,Oracle Database Administrator (Oracle DBA),urban,0.11%,9
+194,France,Reference Data Expert,rural,0.01%,1
+195,France,SCADA Operator (Supervisory Control and Data Acquisition Operator),rural,0.01%,1
+196,France,SCADA Operator (Supervisory Control and Data Acquisition Operator),urban,0.02%,2
+197,France,SCADA Technician (Supervisory Control and Data Acquisition Technician),rural,0.01%,1
+198,France,SCADA Technician (Supervisory Control and Data Acquisition Technician),urban,0.01%,1
+199,France,SQL Database Administrator,rural,0.02%,2
+200,France,SQL Database Administrator,urban,0.01%,1
+201,France,Scientific Database Curator,urban,0.02%,2
+202,France,Survey Data Technician,rural,0.01%,1
+203,France,Unemployed,rural,2.35%,193
+204,France,Unemployed,urban,4.16%,342
+205,France,Voice and Data Technician,urban,0.01%,1

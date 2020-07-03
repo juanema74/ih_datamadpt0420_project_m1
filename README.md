@@ -1,99 +1,64 @@
-# Data Project README file
+# IronHack Data Analytics Bootcamp: Proyect 1 - Making a Data Pipeline
 
-The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
-Bearing that in mind, your job is to: 
-- Tell them what it is (with context).
-- Show them what it looks like in action.
-- Show them how they use it.
-- Tell them any other relevant details.
+The following Pipeline shows the quantity and percentage of workers per country, job type and living area (making difference between rural and urban areas).
 
 ![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
 
 ---
 
-## **Formatting**
-Your readers will most likely view your README in a browser so please keep that in mind when formatting its content: 
-- Use proper format when necesary (e.g.: `import pandas as pd`). 
-- Categorize content using two or three levels of header beneath. 
-- Make use of **emphasis** to call out important words. 
-- Link to project pages for related libraries you mention. Link to Wikipedia, Wiktionary, even Urban Dictionary definitions for words of which a reader may not be familiar. Make amusing cultural references. 
-- Add links to related projects or services. 
 
-> Here you have a markdown cheatsheet [Link](https://commonmark.org/help/) and tutorial [Link](https://commonmark.org/help/tutorial/).
+### 💻**Technology stack**
+Python, Pandas, requests, BeautifulSoup, argparse, sqlalchemy, Pycharm and Jupyter.
+
+### **Core technical concepts and inspiration**
+- Reporting tool to analyze selected results and make better and faster decisions.
+- The main_script.py will generate a .csv file updated every time the script runs.
+
+### 🔧**Configuration**
+- The data base used for this proyect is located here : /data/raw/raw_data_project_m1.db.
+- Enviroment ironhack_env should be activated to run the script.
+
+### **Pipeline usage and posible outputs**
+- Case 1:
+If you want to have a .csv file with all countries yo just need to put -c country and all dataset will be saved in that file. 
+- Here is an example:
+python main_script.py -p /Users/juandediegosuanzes/Desktop/ih_datamadpt0420_project_m1/data/raw/raw_data_project_m1.db -u https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Country_codes -c country
 
 
-## **Start writing ASAP:**
-*Last but not least, by writing your README soon you give yourself some pretty significant advantages. Most importantly, you’re giving yourself a chance to think through the project without the overhead of having to change code every time you change your mind about how something should be organized or what should be included.*
+- Case 2:
+In case you want the info of a specific country,  running the script using -c ‘name of the country selected’ will be needed to have that information. 
+- Here is an example: python main_script.py -p /Users/juandediegosuanzes/Desktop/ih_datamadpt0420_project_m1/data/raw/raw_data_project_m1.db -u https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Country_codes -c Spain
 
 
-## **Suggested Structure:**
-
-### :raising_hand: **Name** 
-Self-explanatory names are best. If the name sounds too vague or unrelated, it may be a signal to move on. It also must be catchy. Images, Logo, Gif or some color is strongly recommended.
-
-### :baby: **Status**
-Alpha, Beta, 1.1, Ironhack Data Analytics Final Project, etc... It's OK to write a sentence, too. The goal is to let interested people know where this project is at.
-
-### :running: **One-liner**
-Having a one-liner that describes the pipeline/api/app is useful for getting an idea of what your code does in slightly greater detail. 
-
-### :computer: **Technology stack**
-Python, Pandas, Scipy, Scikit-learn, etc. Indicate the technological nature of the software, including primary programming language(s), main libraries and whether the software is intended as standalone or as a module in a framework or other ecosystem.
-
-### :boom: **Core technical concepts and inspiration**
-Why does it exist? Frame your project for the potential user. Compare/contrast your project with other, similar projects so the user knows how it is different from those projects. Highlight the technical concepts that your project demonstrates or supports. Keep it very brief.
-
-### :wrench: **Configuration**
-Requeriments, prerequisites, dependencies, installation instructions.
-
-### :see_no_evil: **Usage**
-Parameters, return values, known issues, thrown errors.
-
-### :file_folder: **Folder structure**
+The script will export a .csv per each stage of the project which will be in data/raw folder
+### 📁 **Folder structure**
 ```
 └── project
     ├── __trash__
-    ├── .gitignore
-    ├── .env
-    ├── requeriments.txt
-    ├── README.md
-    ├── main_script.py
-    ├── notebooks
-    │   ├── notebook1.ipynb
-    │   └── notebook2.ipynb
-    ├── package1
-    │   ├── module1.py
-    │   └── module2.py
-    └── data
+    ├── data
         ├── raw
+            ├── .csv files
         ├── processed
         └── results
+    ├── notebooks
+        ├── Data_v1.ipynb
+        ├── data_cleaning.ipynb
+    ├── p_acquisition
+        ├── m_acquistion.py
+    ├── p_analysis
+        ├── m_analysis.py
+    ├── p_reporting
+        ├── m_reporting.py
+    ├── p_wrangling
+        ├── m_wrangling.py
+    ├── .env.txt
+    ├── .gitignore
+    ├── main_script.py
+    ├── README.MD
+    ├── requeriments.txt
+
 ```
 
-> Do not forget to include `__trash__` and `.env` in `.gitignore` 
-
-### :shit: **ToDo**
-Next steps, features planned, known bugs (shortlist).
-
-### :information_source: **Further info**
-Credits, alternatives, references, license.
-
-### :love_letter: **Contact info**
-Getting help, getting involved, hire me please.
-
----
-
-> Here you have some repo examples:
-- [Mamba (OCR-Translator-Assistant)](https://github.com/YonatanRA/OCR-translator-assistant-project)
-- [Art Classification](https://github.com/serguma/art_classification)
-- [OSNet-IBN (width x 1.0) Lite](https://github.com/RodMech/OSNet-IBN1-Lite)
-- [Movie Founder](https://github.com/Alfagu/final-project-Ironhack-0419mad)
-- [Convolutional Neural Network to detect Pneumonia](https://github.com/jmolins89/final-project)
-- [Brain tumor detection project](https://github.com/alonsopdani/brain-tumor-detection-project)
-- [Policy-Gradient-Methods](https://github.com/cyoon1729/Policy-Gradient-Methods)
-
-> Here you have some tools and references:
-- [Make a README](https://www.makeareadme.com/)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+### **Further info**
+- Web scraping Source: https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Country_codes
+- Thanks for attending my proyect!

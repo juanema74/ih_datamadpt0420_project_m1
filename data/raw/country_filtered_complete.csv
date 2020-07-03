@@ -1,0 +1,2169 @@
+,Country,Job_title,Rural,Percentage,Quantity
+0,Austria,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.01%,1
+1,Austria,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.01%,1
+2,Austria,Automatic Data Processing Planner,rural,0.01%,1
+3,Austria,Automatic Data Processing Planner,urban,0.01%,1
+4,Austria,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.01%,1
+5,Austria,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.01%,1
+6,Austria,Clinical Data Specialist,rural,0.01%,1
+7,Austria,Computer or Data Processing Systems Consultant,rural,0.01%,1
+8,Austria,Computer or Data Processing Systems Consultant,urban,0.02%,2
+9,Austria,Crime Data Specialist,urban,0.01%,1
+10,Austria,Data Administrator,rural,0.01%,1
+11,Austria,Data Base Design Analyst,rural,0.01%,1
+12,Austria,Data Base Design Analyst,urban,0.01%,1
+13,Austria,Data Coder Operator,rural,0.01%,1
+14,Austria,Data Communications Software Consultant,rural,0.01%,1
+15,Austria,Data Communications Software Consultant,urban,0.01%,1
+16,Austria,Data Coordinator,rural,0.02%,2
+17,Austria,Data Entry Representative,urban,0.01%,1
+18,Austria,Data Entry Specialist,rural,0.01%,1
+19,Austria,Data Keyer,urban,0.01%,1
+20,Austria,Data Management Associate,urban,0.01%,1
+21,Austria,Data Management Information Technology Specialist,urban,0.01%,1
+22,Austria,Data Officer,urban,0.02%,2
+23,Austria,Data Processing Auditor,rural,0.04%,3
+24,Austria,Data Processing Systems Project Planner,urban,0.01%,1
+25,Austria,Data Security Analyst,rural,0.01%,1
+26,Austria,Data Security Analyst,urban,0.01%,1
+27,Austria,Data Systems Manager,urban,0.01%,1
+28,Austria,Data Warehouse Developer,rural,0.01%,1
+29,Austria,Data Warehousing Engineer,rural,0.01%,1
+30,Austria,Data Warehousing Engineer,urban,0.05%,4
+31,Austria,Data Warehousing Manager,urban,0.01%,1
+32,Austria,Database Administration Associate,urban,0.01%,1
+33,Austria,Database Administration Manager,urban,0.01%,1
+34,Austria,Database Architect,urban,0.01%,1
+35,Austria,Database Coordinator,urban,0.01%,1
+36,Austria,Database Design Analyst,rural,0.01%,1
+37,Austria,Database Developer,urban,0.01%,1
+38,Austria,Database Development and Administration Project Manager,rural,0.01%,1
+39,Austria,Database Engineer,rural,0.02%,2
+40,Austria,Database Manager,urban,0.01%,1
+41,Austria,Database Marketing Analyst,rural,0.01%,1
+42,Austria,Database Modeler,urban,0.01%,1
+43,Austria,Database Security Administrator,rural,0.01%,1
+44,Austria,Database Security Administrator,urban,0.02%,2
+45,Austria,Database Security Expert,urban,0.01%,1
+46,Austria,Database Software Technician,rural,0.02%,2
+47,Austria,Databases Computer Consultant,rural,0.01%,1
+48,Austria,Director of Data Operations,rural,0.01%,1
+49,Austria,Electronic Data Processing Auditor (EDP Auditor),urban,0.01%,1
+50,Austria,Field Artillery Automated Tactical Data System Specialist,urban,0.01%,1
+51,Austria,GPS Field Data Collector (Global Positioning System Field Data Collector),rural,0.01%,1
+52,Austria,Geographic Information Systems Data Administrator (GIS Data Administrator),rural,0.01%,1
+53,Austria,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.01%,1
+54,Austria,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.01%,1
+55,Austria,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.01%,1
+56,Austria,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.04%,3
+57,Austria,Internet Database Specialist,rural,0.01%,1
+58,Austria,Maintenance Data Analyst,urban,0.01%,1
+59,Austria,"Naval Tactical Data System--Combat Information Center Watch Officer, General",rural,0.01%,1
+60,Austria,"Naval Tactical Data System--Combat Information Center Watch Officer, General",urban,0.01%,1
+61,Austria,Unemployed,rural,0.34%,28
+62,Austria,Unemployed,urban,0.38%,31
+63,Belgium,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.01%,1
+64,Belgium,Automatic Data Processing Planner,rural,0.01%,1
+65,Belgium,Automatic Data Processing Planner,urban,0.01%,1
+66,Belgium,Automatic Data Processing Planner (ADP Planner),urban,0.01%,1
+67,Belgium,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.01%,1
+68,Belgium,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.01%,1
+69,Belgium,Clinical Data Associate,rural,0.04%,3
+70,Belgium,Clinical Data Coordinator,urban,0.01%,1
+71,Belgium,Crime Data Specialist,urban,0.01%,1
+72,Belgium,Data Administrator,rural,0.01%,1
+73,Belgium,Data Administrator,urban,0.02%,2
+74,Belgium,Data Architect,rural,0.01%,1
+75,Belgium,Data Architect,urban,0.02%,2
+76,Belgium,Data Base Design Analyst,rural,0.01%,1
+77,Belgium,Data Capture Specialist,urban,0.01%,1
+78,Belgium,Data Collector,urban,0.01%,1
+79,Belgium,Data Communications Analyst,rural,0.01%,1
+80,Belgium,Data Coordinator,urban,0.01%,1
+81,Belgium,Data Entry Associate,urban,0.01%,1
+82,Belgium,Data Entry Representative,rural,0.01%,1
+83,Belgium,Data Entry Specialist,rural,0.01%,1
+84,Belgium,Data Management Associate,urban,0.01%,1
+85,Belgium,Data Management Information Technology Specialist,rural,0.01%,1
+86,Belgium,Data Management Information Technology Specialist,urban,0.01%,1
+87,Belgium,Data Manager,rural,0.01%,1
+88,Belgium,Data Miner,urban,0.01%,1
+89,Belgium,Data Officer,rural,0.02%,2
+90,Belgium,Data Officer,urban,0.02%,2
+91,Belgium,Data Processing Consultant,rural,0.01%,1
+92,Belgium,Data Processing Manager,rural,0.01%,1
+93,Belgium,Data Processing Systems Analyst,urban,0.02%,2
+94,Belgium,Data Processing Systems Project Planner,urban,0.02%,2
+95,Belgium,Data Recovery Planner,rural,0.01%,1
+96,Belgium,Data Scientist,rural,0.01%,1
+97,Belgium,Data Scientist,urban,0.04%,3
+98,Belgium,Data Security Administrator,rural,0.01%,1
+99,Belgium,Data Security Administrator,urban,0.02%,2
+100,Belgium,Data Security Analyst,rural,0.01%,1
+101,Belgium,Data Security Analyst,urban,0.01%,1
+102,Belgium,Data Storage Specialist,urban,0.01%,1
+103,Belgium,Data Systems Manager,rural,0.01%,1
+104,Belgium,Data Warehouse Analyst,urban,0.01%,1
+105,Belgium,Data Warehouse Developer,rural,0.01%,1
+106,Belgium,Data Warehouse Specialist,rural,0.01%,1
+107,Belgium,Data Warehouse Specialist,urban,0.01%,1
+108,Belgium,Data Warehousing Manager,urban,0.02%,2
+109,Belgium,Database Administration Associate,urban,0.02%,2
+110,Belgium,Database Architect,urban,0.01%,1
+111,Belgium,Database Consultant,rural,0.01%,1
+112,Belgium,Database Consultant,urban,0.01%,1
+113,Belgium,Database Coordinator,urban,0.01%,1
+114,Belgium,Database Design Analyst,rural,0.01%,1
+115,Belgium,Database Designer,urban,0.02%,2
+116,Belgium,Database Development and Administration Project Manager,urban,0.01%,1
+117,Belgium,Database Engineer,rural,0.01%,1
+118,Belgium,Database Engineer,urban,0.02%,2
+119,Belgium,Database Management System Specialist (DBMS Specialist),rural,0.01%,1
+120,Belgium,Database Management System Specialist (DBMS Specialist),urban,0.01%,1
+121,Belgium,Database Manager,rural,0.01%,1
+122,Belgium,Database Manager,urban,0.02%,2
+123,Belgium,Database Marketing Analyst,rural,0.01%,1
+124,Belgium,Database Marketing Analyst,urban,0.01%,1
+125,Belgium,Database Security Administrator,urban,0.01%,1
+126,Belgium,Database Software Technician,rural,0.01%,1
+127,Belgium,Database Tester,urban,0.02%,2
+128,Belgium,Director of Data Operations,rural,0.01%,1
+129,Belgium,Director of Data Operations,urban,0.02%,2
+130,Belgium,Electronic Data Processing Auditor (EDP Auditor),rural,0.01%,1
+131,Belgium,Field Artillery Automated Tactical Data System Specialist,rural,0.01%,1
+132,Belgium,Flight Data Technician,urban,0.01%,1
+133,Belgium,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.01%,1
+134,Belgium,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.02%,2
+135,Belgium,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.02%,2
+136,Belgium,Head of Information Systems and Data Processing,urban,0.01%,1
+137,Belgium,Health Data Analyst,rural,0.02%,2
+138,Belgium,Health Data Analyst,urban,0.01%,1
+139,Belgium,Log Data Technician,rural,0.01%,1
+140,Belgium,Marketing Database Analyst,urban,0.01%,1
+141,Belgium,Medical Data Analyst,rural,0.01%,1
+142,Belgium,Oracle Database Administrator (Oracle DBA),urban,0.01%,1
+143,Belgium,Reference Data Expert,urban,0.01%,1
+144,Belgium,SQL Database Administrator,urban,0.01%,1
+145,Belgium,Unemployed,rural,0.36%,30
+146,Belgium,Unemployed,urban,0.56%,46
+147,Bulgaria,Automatic Data Processing Planner,urban,0.01%,1
+148,Bulgaria,Automatic Data Processing Planner (ADP Planner),urban,0.01%,1
+149,Bulgaria,Business Database Analyst,urban,0.01%,1
+150,Bulgaria,Clinical Data Management Associate Director,urban,0.01%,1
+151,Bulgaria,Clinical Data Manager,urban,0.01%,1
+152,Bulgaria,Computer or Data Processing Systems Consultant,urban,0.01%,1
+153,Bulgaria,Data Abstractor,urban,0.01%,1
+154,Bulgaria,Data Administrator,urban,0.02%,2
+155,Bulgaria,Data Architect,urban,0.02%,2
+156,Bulgaria,Data Base Design Analyst,urban,0.01%,1
+157,Bulgaria,Data Center Manager,urban,0.01%,1
+158,Bulgaria,Data Center Operator,urban,0.01%,1
+159,Bulgaria,Data Communications Analyst,urban,0.01%,1
+160,Bulgaria,Data Compiler,urban,0.01%,1
+161,Bulgaria,Data Control Assistant,urban,0.01%,1
+162,Bulgaria,Data Coordinator,urban,0.01%,1
+163,Bulgaria,Data Management Associate,urban,0.01%,1
+164,Bulgaria,Data Management Information Technology Specialist,rural,0.01%,1
+165,Bulgaria,Data Miner,urban,0.02%,2
+166,Bulgaria,Data Modeling Specialist,urban,0.01%,1
+167,Bulgaria,Data Officer,urban,0.01%,1
+168,Bulgaria,Data Operations Director,urban,0.01%,1
+169,Bulgaria,Data Processing Auditor,rural,0.01%,1
+170,Bulgaria,Data Processing Auditor,urban,0.01%,1
+171,Bulgaria,Data Processing Manager,urban,0.04%,3
+172,Bulgaria,Data Processing Systems Analyst,urban,0.02%,2
+173,Bulgaria,Data Recovery Planner,urban,0.01%,1
+174,Bulgaria,Data Reduction Technician,urban,0.01%,1
+175,Bulgaria,Data Security Administrator,urban,0.01%,1
+176,Bulgaria,Data Security Analyst,urban,0.01%,1
+177,Bulgaria,Data Storage Specialist,urban,0.01%,1
+178,Bulgaria,Data Systems Manager,urban,0.01%,1
+179,Bulgaria,Data Warehouse Architect,urban,0.04%,3
+180,Bulgaria,Data Warehouse Developer,urban,0.02%,2
+181,Bulgaria,Data Warehouse Specialist,urban,0.06%,5
+182,Bulgaria,Data Warehousing Engineer,urban,0.01%,1
+183,Bulgaria,Data Warehousing Specialist,urban,0.02%,2
+184,Bulgaria,Database Administration Associate,urban,0.02%,2
+185,Bulgaria,Database Administration Manager,urban,0.01%,1
+186,Bulgaria,Database Analyst,urban,0.01%,1
+187,Bulgaria,Database Architect,urban,0.01%,1
+188,Bulgaria,Database Consultant,urban,0.01%,1
+189,Bulgaria,Database Coordinator,urban,0.01%,1
+190,Bulgaria,Database Design Analyst,urban,0.01%,1
+191,Bulgaria,Database Designer,urban,0.02%,2
+192,Bulgaria,Database Development Project Manager,urban,0.01%,1
+193,Bulgaria,Database Modeler,urban,0.02%,2
+194,Bulgaria,Database Security Administrator,urban,0.01%,1
+195,Bulgaria,Database Security Expert,urban,0.01%,1
+196,Bulgaria,Database Software Technician,urban,0.02%,2
+197,Bulgaria,Database Tester,rural,0.01%,1
+198,Bulgaria,Database Tester,urban,0.01%,1
+199,Bulgaria,Director of Data Operations,urban,0.01%,1
+200,Bulgaria,Electronic Data Processing Auditor (EDP Auditor),urban,0.01%,1
+201,Bulgaria,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.04%,3
+202,Bulgaria,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.01%,1
+203,Bulgaria,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.01%,1
+204,Bulgaria,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.05%,4
+205,Bulgaria,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.02%,2
+206,Bulgaria,Head of Information Systems and Data Processing,urban,0.04%,3
+207,Bulgaria,Internet Database Specialist,urban,0.05%,4
+208,Bulgaria,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",rural,0.01%,1
+209,Bulgaria,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",urban,0.01%,1
+210,Bulgaria,SCADA Technician (Supervisory Control and Data Acquisition Technician),urban,0.01%,1
+211,Bulgaria,SQL Database Administrator,urban,0.02%,2
+212,Bulgaria,Survey Data Technician,urban,0.01%,1
+213,Bulgaria,Unemployed,rural,0.07%,6
+214,Bulgaria,Unemployed,urban,0.47%,39
+215,Croatia,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.01%,1
+216,Croatia,Clinical Data Abstractor,urban,0.01%,1
+217,Croatia,Clinical Data Management Associate Director,urban,0.01%,1
+218,Croatia,Computer or Data Processing Systems Consultant,urban,0.02%,2
+219,Croatia,Data Administrator,rural,0.01%,1
+220,Croatia,Data Analysis Assistant,rural,0.01%,1
+221,Croatia,Data Coordinator,rural,0.01%,1
+222,Croatia,Data Entry Associate,urban,0.01%,1
+223,Croatia,Data Management Associate,urban,0.01%,1
+224,Croatia,Data Management Information Technology Specialist,urban,0.01%,1
+225,Croatia,Data Modeling Specialist,urban,0.01%,1
+226,Croatia,Data Officer,urban,0.01%,1
+227,Croatia,Data Operations Director,urban,0.01%,1
+228,Croatia,Data Processing Manager,urban,0.01%,1
+229,Croatia,Data Processing Systems Project Planner,urban,0.01%,1
+230,Croatia,Data Security Administrator,rural,0.01%,1
+231,Croatia,Data Security Administrator,urban,0.01%,1
+232,Croatia,Data Storage Specialist,urban,0.02%,2
+233,Croatia,Data Systems Manager,urban,0.02%,2
+234,Croatia,Data Warehouse Developer,rural,0.01%,1
+235,Croatia,Data Warehouse Specialist,urban,0.01%,1
+236,Croatia,Database Coordinator,urban,0.01%,1
+237,Croatia,Database Design Analyst,urban,0.02%,2
+238,Croatia,Database Designer,urban,0.01%,1
+239,Croatia,Database Engineer,urban,0.01%,1
+240,Croatia,Database Modeler,urban,0.02%,2
+241,Croatia,Database Security Administrator,urban,0.04%,3
+242,Croatia,Database Security Expert,urban,0.01%,1
+243,Croatia,Database Specialist,urban,0.01%,1
+244,Croatia,Database Tester,urban,0.01%,1
+245,Croatia,Electronic Data Interchange System Developer (EDI System Developer),urban,0.01%,1
+246,Croatia,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.01%,1
+247,Croatia,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.01%,1
+248,Croatia,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.02%,2
+249,Croatia,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.02%,2
+250,Croatia,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.01%,1
+251,Croatia,Head of Information Systems and Data Processing,urban,0.01%,1
+252,Croatia,Internet Database Specialist,urban,0.02%,2
+253,Croatia,"Operations Officer, Afloat (Naval Tactical Data Systems)",urban,0.01%,1
+254,Croatia,Unemployed,rural,0.13%,11
+255,Croatia,Unemployed,urban,0.33%,27
+256,Cyprus,Clinical Trials Data Coordinator,urban,0.01%,1
+257,Cyprus,Data Communications Analyst,urban,0.01%,1
+258,Cyprus,Data Management Associate,urban,0.01%,1
+259,Cyprus,Data Modeling Specialist,urban,0.01%,1
+260,Cyprus,Data Systems Manager,urban,0.01%,1
+261,Cyprus,Data Warehousing Specialist,urban,0.01%,1
+262,Cyprus,Database Administrator (DBA),urban,0.01%,1
+263,Cyprus,Head of Information Systems and Data Processing,urban,0.01%,1
+264,Cyprus,Unemployed,urban,0.06%,5
+265,Czechia,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.02%,2
+266,Czechia,Automatic Data Processing Planner,urban,0.02%,2
+267,Czechia,Automatic Data Processing Planner (ADP Planner),urban,0.01%,1
+268,Czechia,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.01%,1
+269,Czechia,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.02%,2
+270,Czechia,Clinical Data Coordinator,urban,0.01%,1
+271,Czechia,Computer or Data Processing Systems Consultant,rural,0.01%,1
+272,Czechia,Computer or Data Processing Systems Consultant,urban,0.02%,2
+273,Czechia,Data Acquisition Technician,rural,0.01%,1
+274,Czechia,Data Administrator,urban,0.02%,2
+275,Czechia,Data Architect,rural,0.01%,1
+276,Czechia,Data Architect,urban,0.01%,1
+277,Czechia,Data Center Operator,urban,0.01%,1
+278,Czechia,Data Collection Technician,rural,0.01%,1
+279,Czechia,Data Communications Analyst,urban,0.01%,1
+280,Czechia,Data Communications Software Consultant,urban,0.01%,1
+281,Czechia,Data Control Assistant,urban,0.01%,1
+282,Czechia,Data Coordinator,urban,0.01%,1
+283,Czechia,Data Entry Machine Operator,rural,0.01%,1
+284,Czechia,Data Entry Specialist,urban,0.01%,1
+285,Czechia,Data Keyer,urban,0.01%,1
+286,Czechia,Data Management Associate,rural,0.01%,1
+287,Czechia,Data Management Information Technology Specialist,urban,0.01%,1
+288,Czechia,Data Manager,urban,0.01%,1
+289,Czechia,Data Miner,rural,0.01%,1
+290,Czechia,Data Modeling Specialist,urban,0.02%,2
+291,Czechia,Data Officer,urban,0.05%,4
+292,Czechia,Data Operations Director,rural,0.01%,1
+293,Czechia,Data Operations Director,urban,0.02%,2
+294,Czechia,Data Processing Auditor,urban,0.01%,1
+295,Czechia,Data Processing Auxiliary Equipment Operator,urban,0.01%,1
+296,Czechia,Data Processing Equipment Repairer,urban,0.01%,1
+297,Czechia,Data Processing Manager,urban,0.01%,1
+298,Czechia,Data Processing Mechanic,rural,0.01%,1
+299,Czechia,Data Processing Services Sales Representative,urban,0.01%,1
+300,Czechia,Data Processing Systems Analyst,rural,0.01%,1
+301,Czechia,Data Processing Systems Analyst,urban,0.02%,2
+302,Czechia,Data Processing Systems Project Planner,rural,0.02%,2
+303,Czechia,Data Sciences Director,urban,0.01%,1
+304,Czechia,Data Scientist,rural,0.01%,1
+305,Czechia,Data Security Analyst,urban,0.02%,2
+306,Czechia,Data Storage Specialist,rural,0.02%,2
+307,Czechia,Data Storage Specialist,urban,0.01%,1
+308,Czechia,Data Systems Manager,rural,0.01%,1
+309,Czechia,Data Technician,urban,0.01%,1
+310,Czechia,Data Warehouse Analyst,urban,0.02%,2
+311,Czechia,Data Warehouse Architect,rural,0.01%,1
+312,Czechia,Data Warehouse Architect,urban,0.01%,1
+313,Czechia,Data Warehouse Developer,urban,0.01%,1
+314,Czechia,Data Warehousing Engineer,urban,0.01%,1
+315,Czechia,Data Warehousing Manager,urban,0.02%,2
+316,Czechia,Data Warehousing Specialist,urban,0.01%,1
+317,Czechia,Database Administration Associate,urban,0.01%,1
+318,Czechia,Database Administrator (DBA),rural,0.01%,1
+319,Czechia,Database Architect,rural,0.01%,1
+320,Czechia,Database Architect,urban,0.01%,1
+321,Czechia,Database Consultant,urban,0.04%,3
+322,Czechia,Database Coordinator,urban,0.02%,2
+323,Czechia,Database Designer,urban,0.01%,1
+324,Czechia,Database Development Project Manager,rural,0.01%,1
+325,Czechia,Database Development and Administration Project Manager,rural,0.01%,1
+326,Czechia,Database Engineer,rural,0.01%,1
+327,Czechia,Database Engineer,urban,0.02%,2
+328,Czechia,Database Management System Specialist (DBMS Specialist),urban,0.01%,1
+329,Czechia,Database Marketing Analyst,urban,0.01%,1
+330,Czechia,Database Security Administrator,rural,0.01%,1
+331,Czechia,Database Security Administrator,urban,0.02%,2
+332,Czechia,Database Security Expert,urban,0.02%,2
+333,Czechia,Database Software Technician,rural,0.01%,1
+334,Czechia,Database Software Technician,urban,0.02%,2
+335,Czechia,Database Specialist,urban,0.01%,1
+336,Czechia,Database Tester,urban,0.02%,2
+337,Czechia,Databases Computer Consultant,urban,0.02%,2
+338,Czechia,Databases Software Consultant,rural,0.01%,1
+339,Czechia,Director of Data Operations,urban,0.04%,3
+340,Czechia,Electronic Data Processing Auditor (EDP Auditor),urban,0.01%,1
+341,Czechia,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.01%,1
+342,Czechia,Flight Test Data Acquisition Technician,rural,0.01%,1
+343,Czechia,GPS Field Data Collector (Global Positioning System Field Data Collector),rural,0.01%,1
+344,Czechia,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.01%,1
+345,Czechia,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.01%,1
+346,Czechia,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.02%,2
+347,Czechia,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.01%,1
+348,Czechia,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.01%,1
+349,Czechia,Head of Information Systems and Data Processing,urban,0.04%,3
+350,Czechia,Health Data Analyst,urban,0.01%,1
+351,Czechia,Internet Database Specialist,urban,0.05%,4
+352,Czechia,Maintenance Data Analyst,urban,0.01%,1
+353,Czechia,Marketing Database Analyst,urban,0.01%,1
+354,Czechia,Micro Computer Data Processor,urban,0.01%,1
+355,Czechia,Naval Tactical Data System--Combat Information Center Officer,rural,0.01%,1
+356,Czechia,"Naval Tactical Data System--Combat Information Center Watch Officer, General",urban,0.01%,1
+357,Czechia,Oracle Database Administrator (Oracle DBA),rural,0.01%,1
+358,Czechia,Oracle Database Administrator (Oracle DBA),urban,0.02%,2
+359,Czechia,SCADA Technician (Supervisory Control and Data Acquisition Technician),urban,0.01%,1
+360,Czechia,SQL Database Administrator,urban,0.01%,1
+361,Czechia,Unemployed,rural,0.28%,23
+362,Czechia,Unemployed,urban,0.44%,36
+363,Denmark,Automatic Data Processing Planner,rural,0.01%,1
+364,Denmark,Automatic Data Processing Planner,urban,0.01%,1
+365,Denmark,Automatic Data Processing Planner (ADP Planner),urban,0.02%,2
+366,Denmark,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.01%,1
+367,Denmark,Clinical Data Manager,rural,0.01%,1
+368,Denmark,Data Architect,rural,0.01%,1
+369,Denmark,Data Base Design Analyst,urban,0.01%,1
+370,Denmark,Data Communications Software Consultant,rural,0.01%,1
+371,Denmark,Data Communications Software Consultant,urban,0.04%,3
+372,Denmark,Data Coordinator,urban,0.02%,2
+373,Denmark,Data Keyer,rural,0.01%,1
+374,Denmark,Data Management Information Technology Specialist,urban,0.01%,1
+375,Denmark,Data Manager,urban,0.01%,1
+376,Denmark,Data Officer,rural,0.01%,1
+377,Denmark,Data Officer,urban,0.04%,3
+378,Denmark,Data Operations Director,urban,0.01%,1
+379,Denmark,Data Processing Auditor,urban,0.01%,1
+380,Denmark,Data Processing Consultant,urban,0.02%,2
+381,Denmark,Data Processing Manager,urban,0.01%,1
+382,Denmark,Data Scientist,urban,0.01%,1
+383,Denmark,Data Storage Specialist,urban,0.02%,2
+384,Denmark,Data Systems Manager,urban,0.01%,1
+385,Denmark,Data Transcriber,urban,0.01%,1
+386,Denmark,Data Typist,urban,0.01%,1
+387,Denmark,Data Warehouse Analyst,rural,0.01%,1
+388,Denmark,Data Warehouse Architect,rural,0.01%,1
+389,Denmark,Data Warehouse Architect,urban,0.01%,1
+390,Denmark,Data Warehouse Developer,urban,0.01%,1
+391,Denmark,Data Warehouse Specialist,rural,0.01%,1
+392,Denmark,Data Warehousing Specialist,rural,0.01%,1
+393,Denmark,Database Administration Associate,urban,0.01%,1
+394,Denmark,Database Consultant,urban,0.01%,1
+395,Denmark,Database Coordinator,rural,0.01%,1
+396,Denmark,Database Coordinator,urban,0.01%,1
+397,Denmark,Database Designer,urban,0.01%,1
+398,Denmark,Database Development and Administration Project Manager,urban,0.02%,2
+399,Denmark,Database Engineer,rural,0.01%,1
+400,Denmark,Database Management System Specialist (DBMS Specialist),rural,0.01%,1
+401,Denmark,Database Management System Specialist (DBMS Specialist),urban,0.01%,1
+402,Denmark,Database Modeler,urban,0.01%,1
+403,Denmark,Database Security Expert,rural,0.01%,1
+404,Denmark,Database Security Expert,urban,0.01%,1
+405,Denmark,Database Specialist,urban,0.04%,3
+406,Denmark,Database Tester,urban,0.02%,2
+407,Denmark,Databases Computer Consultant,urban,0.01%,1
+408,Denmark,Director of Data Operations,urban,0.01%,1
+409,Denmark,Electronic Data Interchange System Developer (EDI System Developer),urban,0.02%,2
+410,Denmark,Electronic Data Processing Auditor (EDP Auditor),urban,0.01%,1
+411,Denmark,Field Traffic Data Technician,urban,0.01%,1
+412,Denmark,Health Data Analyst,urban,0.01%,1
+413,Denmark,Internet Database Specialist,rural,0.01%,1
+414,Denmark,Medical Data Analyst,urban,0.01%,1
+415,Denmark,Oracle Database Administrator (Oracle DBA),urban,0.04%,3
+416,Denmark,SQL Database Administrator,urban,0.01%,1
+417,Denmark,Survey Data Technician,rural,0.01%,1
+418,Denmark,Survey Data Technician,urban,0.01%,1
+419,Denmark,Unemployed,rural,0.11%,9
+420,Denmark,Unemployed,urban,0.47%,39
+421,Estonia,Data Base Design Analyst,urban,0.01%,1
+422,Estonia,Data Collection Technician,urban,0.01%,1
+423,Estonia,Data Entry Supervisor,urban,0.01%,1
+424,Estonia,Data Management Information Technology Specialist,urban,0.01%,1
+425,Estonia,Data Operations Director,urban,0.01%,1
+426,Estonia,Data Processing Supervisor,urban,0.01%,1
+427,Estonia,Database Administration Manager,urban,0.01%,1
+428,Estonia,Database Manager,urban,0.01%,1
+429,Estonia,Director of Data Operations,urban,0.01%,1
+430,Estonia,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.01%,1
+431,Estonia,Unemployed,urban,0.1%,8
+432,Finland,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.01%,1
+433,Finland,Automatic Data Processing Planner (ADP Planner),urban,0.01%,1
+434,Finland,Clinical Data Management Manager (CDM Manager),urban,0.01%,1
+435,Finland,Computer or Data Processing Systems Consultant,rural,0.01%,1
+436,Finland,Computer or Data Processing Systems Consultant,urban,0.01%,1
+437,Finland,Data Administrator,urban,0.01%,1
+438,Finland,Data Analysis Assistant,urban,0.01%,1
+439,Finland,Data Architect,rural,0.01%,1
+440,Finland,Data Collection Technician,urban,0.01%,1
+441,Finland,Data Communications Analyst,urban,0.01%,1
+442,Finland,Data Coordinator,urban,0.04%,3
+443,Finland,Data Entry Representative,urban,0.01%,1
+444,Finland,Data Management Information Technology Specialist,urban,0.01%,1
+445,Finland,Data Manager,urban,0.01%,1
+446,Finland,Data Modeling Specialist,urban,0.02%,2
+447,Finland,Data Officer,rural,0.01%,1
+448,Finland,Data Officer,urban,0.02%,2
+449,Finland,Data Operations Director,urban,0.01%,1
+450,Finland,Data Processing Auditor,urban,0.02%,2
+451,Finland,Data Processing Consultant,urban,0.01%,1
+452,Finland,Data Processing Manager,urban,0.01%,1
+453,Finland,Data Processing Mechanic,urban,0.01%,1
+454,Finland,Data Processing Systems Analyst,rural,0.01%,1
+455,Finland,Data Reduction Technician,urban,0.02%,2
+456,Finland,Data Scientist,rural,0.01%,1
+457,Finland,Data Security Analyst,urban,0.01%,1
+458,Finland,Data Storage Specialist,rural,0.01%,1
+459,Finland,Data Transcriber,urban,0.01%,1
+460,Finland,Data Warehouse Developer,urban,0.01%,1
+461,Finland,Data Warehousing Engineer,urban,0.01%,1
+462,Finland,Data Warehousing Manager,rural,0.01%,1
+463,Finland,Data Warehousing Specialist,rural,0.01%,1
+464,Finland,Database Administration Associate,urban,0.01%,1
+465,Finland,Database Administration Manager,urban,0.04%,3
+466,Finland,Database Consultant,urban,0.01%,1
+467,Finland,Database Coordinator,urban,0.01%,1
+468,Finland,Database Development Project Manager,urban,0.01%,1
+469,Finland,Database Development and Administration Project Manager,urban,0.01%,1
+470,Finland,Database Manager,urban,0.01%,1
+471,Finland,Database Marketing Analyst,urban,0.04%,3
+472,Finland,Database Software Technician,urban,0.02%,2
+473,Finland,Database Specialist,urban,0.01%,1
+474,Finland,Database Tester,urban,0.02%,2
+475,Finland,Databases Computer Consultant,rural,0.01%,1
+476,Finland,Databases Computer Consultant,urban,0.01%,1
+477,Finland,Databases Software Consultant,urban,0.01%,1
+478,Finland,Datastage Developer,urban,0.01%,1
+479,Finland,Director of Data Operations,urban,0.02%,2
+480,Finland,Electronic Data Processing Auditor (EDP Auditor),urban,0.02%,2
+481,Finland,Field Artillery Automated Tactical Data System Specialist,rural,0.01%,1
+482,Finland,Geographic Information Systems Data Administrator (GIS Data Administrator),rural,0.01%,1
+483,Finland,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.01%,1
+484,Finland,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.01%,1
+485,Finland,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.04%,3
+486,Finland,Internet Database Specialist,rural,0.01%,1
+487,Finland,Naval Tactical Data System--Combat Information Center Officer,urban,0.01%,1
+488,Finland,Oracle Database Administrator (Oracle DBA),urban,0.02%,2
+489,Finland,SCADA Technician (Supervisory Control and Data Acquisition Technician),urban,0.01%,1
+490,Finland,Unemployed,rural,0.16%,13
+491,Finland,Unemployed,urban,0.3%,25
+492,France,Analytical Data Miner,urban,0.02%,2
+493,France,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.05%,4
+494,France,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.09%,7
+495,France,Automatic Data Processing Planner,rural,0.06%,5
+496,France,Automatic Data Processing Planner,urban,0.1%,8
+497,France,Automatic Data Processing Planner (ADP Planner),rural,0.02%,2
+498,France,Automatic Data Processing Planner (ADP Planner),urban,0.09%,7
+499,France,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.06%,5
+500,France,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.07%,6
+501,France,Business Database Analyst,rural,0.02%,2
+502,France,Business Database Analyst,urban,0.01%,1
+503,France,Clinical Data Analyst,urban,0.02%,2
+504,France,Clinical Data Associate,urban,0.02%,2
+505,France,Clinical Data Coordinator,rural,0.01%,1
+506,France,Clinical Data Coordinator,urban,0.01%,1
+507,France,Clinical Data Management Associate Director,rural,0.01%,1
+508,France,Clinical Data Management Associate Director,urban,0.01%,1
+509,France,Clinical Data Management Manager (CDM Manager),rural,0.02%,2
+510,France,Clinical Data Management Manager (CDM Manager),urban,0.02%,2
+511,France,Clinical Data Manager,urban,0.02%,2
+512,France,Clinical Data Specialist,urban,0.01%,1
+513,France,Clinical Trials Data Coordinator,urban,0.04%,3
+514,France,Computer or Data Processing Systems Consultant,rural,0.07%,6
+515,France,Computer or Data Processing Systems Consultant,urban,0.1%,8
+516,France,Crime Data Specialist,urban,0.01%,1
+517,France,Customer Data Technician,urban,0.01%,1
+518,France,Data Administrator,rural,0.04%,3
+519,France,Data Administrator,urban,0.04%,3
+520,France,Data Architect,rural,0.07%,6
+521,France,Data Architect,urban,0.09%,7
+522,France,Data Base Design Analyst,rural,0.04%,3
+523,France,Data Base Design Analyst,urban,0.09%,7
+524,France,Data Capture Specialist,urban,0.01%,1
+525,France,Data Coder Operator,urban,0.02%,2
+526,France,Data Collection Technician,rural,0.01%,1
+527,France,Data Collection Technician,urban,0.02%,2
+528,France,Data Collector,urban,0.01%,1
+529,France,Data Communications Analyst,rural,0.02%,2
+530,France,Data Communications Analyst,urban,0.09%,7
+531,France,Data Communications Software Consultant,rural,0.02%,2
+532,France,Data Communications Software Consultant,urban,0.09%,7
+533,France,Data Communications Technician,rural,0.04%,3
+534,France,Data Communications Technician,urban,0.01%,1
+535,France,Data Control Assistant,urban,0.01%,1
+536,France,Data Control Clerk Supervisor,urban,0.01%,1
+537,France,Data Coordinator,rural,0.07%,6
+538,France,Data Coordinator,urban,0.07%,6
+539,France,Data Entry Clerk,rural,0.01%,1
+540,France,Data Entry Clerk,urban,0.04%,3
+541,France,Data Entry Machine Operator,rural,0.01%,1
+542,France,Data Entry Machine Operator,urban,0.01%,1
+543,France,Data Entry Representative,rural,0.01%,1
+544,France,Data Entry Representative,urban,0.04%,3
+545,France,Data Entry Specialist,rural,0.01%,1
+546,France,Data Entry Specialist,urban,0.01%,1
+547,France,Data Entry Supervisor,urban,0.01%,1
+548,France,Data Input Clerk,urban,0.01%,1
+549,France,Data Management Associate,rural,0.09%,7
+550,France,Data Management Associate,urban,0.09%,7
+551,France,Data Management Information Technology Specialist,rural,0.02%,2
+552,France,Data Management Information Technology Specialist,urban,0.02%,2
+553,France,Data Management Manager,urban,0.01%,1
+554,France,Data Manager,rural,0.01%,1
+555,France,Data Miner,rural,0.07%,6
+556,France,Data Miner,urban,0.07%,6
+557,France,Data Modeler,urban,0.02%,2
+558,France,Data Modeling Specialist,rural,0.02%,2
+559,France,Data Modeling Specialist,urban,0.15%,12
+560,France,Data Officer,rural,0.06%,5
+561,France,Data Officer,urban,0.12%,10
+562,France,Data Operations Director,rural,0.04%,3
+563,France,Data Operations Director,urban,0.04%,3
+564,France,Data Processing Auditor,rural,0.04%,3
+565,France,Data Processing Auditor,urban,0.05%,4
+566,France,Data Processing Consultant,urban,0.06%,5
+567,France,Data Processing Manager,rural,0.02%,2
+568,France,Data Processing Manager,urban,0.09%,7
+569,France,Data Processing Systems Analyst,rural,0.05%,4
+570,France,Data Processing Systems Analyst,urban,0.07%,6
+571,France,Data Processing Systems Project Planner,rural,0.02%,2
+572,France,Data Processing Systems Project Planner,urban,0.06%,5
+573,France,Data Recovery Planner,urban,0.02%,2
+574,France,Data Reduction Technician,urban,0.01%,1
+575,France,Data Sciences Director,urban,0.01%,1
+576,France,Data Scientist,rural,0.02%,2
+577,France,Data Scientist,urban,0.06%,5
+578,France,Data Security Administrator,rural,0.04%,3
+579,France,Data Security Administrator,urban,0.11%,9
+580,France,Data Security Analyst,urban,0.09%,7
+581,France,Data Specialist,rural,0.01%,1
+582,France,Data Storage Specialist,rural,0.04%,3
+583,France,Data Storage Specialist,urban,0.07%,6
+584,France,Data Systems Manager,rural,0.05%,4
+585,France,Data Systems Manager,urban,0.02%,2
+586,France,Data Technician,rural,0.01%,1
+587,France,Data Transcriber,rural,0.01%,1
+588,France,Data Transcriber,urban,0.02%,2
+589,France,Data Typist,urban,0.01%,1
+590,France,Data Warehouse Analyst,rural,0.04%,3
+591,France,Data Warehouse Analyst,urban,0.09%,7
+592,France,Data Warehouse Architect,rural,0.04%,3
+593,France,Data Warehouse Architect,urban,0.07%,6
+594,France,Data Warehouse Developer,rural,0.04%,3
+595,France,Data Warehouse Developer,urban,0.02%,2
+596,France,Data Warehouse Specialist,rural,0.02%,2
+597,France,Data Warehouse Specialist,urban,0.11%,9
+598,France,Data Warehousing Engineer,rural,0.01%,1
+599,France,Data Warehousing Engineer,urban,0.06%,5
+600,France,Data Warehousing Manager,rural,0.04%,3
+601,France,Data Warehousing Manager,urban,0.07%,6
+602,France,Data Warehousing Specialist,rural,0.06%,5
+603,France,Data Warehousing Specialist,urban,0.02%,2
+604,France,Database Administration Associate,rural,0.06%,5
+605,France,Database Administration Associate,urban,0.06%,5
+606,France,Database Administration Manager,urban,0.02%,2
+607,France,Database Administration Project Manager,rural,0.01%,1
+608,France,Database Analyst,rural,0.01%,1
+609,France,Database Analyst,urban,0.02%,2
+610,France,Database Architect,rural,0.05%,4
+611,France,Database Architect,urban,0.09%,7
+612,France,Database Consultant,rural,0.05%,4
+613,France,Database Consultant,urban,0.12%,10
+614,France,Database Coordinator,rural,0.09%,7
+615,France,Database Coordinator,urban,0.1%,8
+616,France,Database Design Analyst,rural,0.02%,2
+617,France,Database Design Analyst,urban,0.07%,6
+618,France,Database Designer,rural,0.05%,4
+619,France,Database Designer,urban,0.05%,4
+620,France,Database Developer,urban,0.01%,1
+621,France,Database Development Project Manager,urban,0.01%,1
+622,France,Database Development and Administration Project Manager,rural,0.05%,4
+623,France,Database Development and Administration Project Manager,urban,0.07%,6
+624,France,Database Engineer,rural,0.02%,2
+625,France,Database Engineer,urban,0.09%,7
+626,France,Database Management System Specialist (DBMS Specialist),rural,0.02%,2
+627,France,Database Management System Specialist (DBMS Specialist),urban,0.02%,2
+628,France,Database Manager,rural,0.02%,2
+629,France,Database Manager,urban,0.1%,8
+630,France,Database Marketing Analyst,rural,0.05%,4
+631,France,Database Marketing Analyst,urban,0.1%,8
+632,France,Database Modeler,rural,0.06%,5
+633,France,Database Modeler,urban,0.1%,8
+634,France,Database Programmer,rural,0.01%,1
+635,France,Database Programmer,urban,0.02%,2
+636,France,Database Security Administrator,rural,0.07%,6
+637,France,Database Security Administrator,urban,0.02%,2
+638,France,Database Security Expert,rural,0.04%,3
+639,France,Database Security Expert,urban,0.05%,4
+640,France,Database Software Technician,rural,0.06%,5
+641,France,Database Software Technician,urban,0.1%,8
+642,France,Database Specialist,rural,0.04%,3
+643,France,Database Specialist,urban,0.06%,5
+644,France,Database Tester,rural,0.05%,4
+645,France,Database Tester,urban,0.09%,7
+646,France,Databases Computer Consultant,rural,0.02%,2
+647,France,Databases Computer Consultant,urban,0.06%,5
+648,France,Databases Software Consultant,rural,0.02%,2
+649,France,Databases Software Consultant,urban,0.05%,4
+650,France,Datastage Developer,urban,0.01%,1
+651,France,Director of Data Operations,rural,0.06%,5
+652,France,Director of Data Operations,urban,0.13%,11
+653,France,Electronic Data Interchange System Developer (EDI System Developer),rural,0.06%,5
+654,France,Electronic Data Interchange System Developer (EDI System Developer),urban,0.05%,4
+655,France,Electronic Data Processing Auditor (EDP Auditor),rural,0.01%,1
+656,France,Electronic Data Processing Auditor (EDP Auditor),urban,0.07%,6
+657,France,"Engineer, System Electronic Data Processing (Engineer, System EDP)",rural,0.02%,2
+658,France,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.05%,4
+659,France,Field Traffic Data Technician,rural,0.01%,1
+660,France,Field Traffic Data Technician,urban,0.01%,1
+661,France,Flight Test Data Acquisition Technician,rural,0.01%,1
+662,France,GPS Field Data Collector (Global Positioning System Field Data Collector),urban,0.01%,1
+663,France,Geographic Information Systems Data Administrator (GIS Data Administrator),rural,0.05%,4
+664,France,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.1%,8
+665,France,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.02%,2
+666,France,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.05%,4
+667,France,Geographic Information Systems Data Specialist (GIS Data Specialist),rural,0.04%,3
+668,France,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.07%,6
+669,France,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.05%,4
+670,France,Head of Information Systems and Data Processing,rural,0.01%,1
+671,France,Head of Information Systems and Data Processing,urban,0.13%,11
+672,France,Internet Database Specialist,rural,0.04%,3
+673,France,Internet Database Specialist,urban,0.09%,7
+674,France,Log Data Technician,rural,0.04%,3
+675,France,Log Data Technician,urban,0.01%,1
+676,France,Maintenance Data Analyst,rural,0.01%,1
+677,France,Maintenance Data Analyst,urban,0.01%,1
+678,France,Marketing Database Analyst,rural,0.01%,1
+679,France,Medical Data Analyst,rural,0.02%,2
+680,France,Micro Computer Data Processor,rural,0.01%,1
+681,France,Naval Tactical Data System--Combat Information Center Officer,rural,0.01%,1
+682,France,Naval Tactical Data System--Combat Information Center Officer,urban,0.01%,1
+683,France,"Operations Officer, Afloat (Naval Tactical Data Systems)",urban,0.01%,1
+684,France,Oracle Database Administrator (Oracle DBA),rural,0.04%,3
+685,France,Oracle Database Administrator (Oracle DBA),urban,0.11%,9
+686,France,Reference Data Expert,rural,0.01%,1
+687,France,SCADA Operator (Supervisory Control and Data Acquisition Operator),rural,0.01%,1
+688,France,SCADA Operator (Supervisory Control and Data Acquisition Operator),urban,0.02%,2
+689,France,SCADA Technician (Supervisory Control and Data Acquisition Technician),rural,0.01%,1
+690,France,SCADA Technician (Supervisory Control and Data Acquisition Technician),urban,0.01%,1
+691,France,SQL Database Administrator,rural,0.02%,2
+692,France,SQL Database Administrator,urban,0.01%,1
+693,France,Scientific Database Curator,urban,0.02%,2
+694,France,Survey Data Technician,rural,0.01%,1
+695,France,Unemployed,rural,2.35%,193
+696,France,Unemployed,urban,4.16%,342
+697,France,Voice and Data Technician,urban,0.01%,1
+698,Germany,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.01%,1
+699,Germany,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.07%,6
+700,Germany,Automatic Data Processing Planner,rural,0.05%,4
+701,Germany,Automatic Data Processing Planner,urban,0.06%,5
+702,Germany,Automatic Data Processing Planner (ADP Planner),rural,0.07%,6
+703,Germany,Automatic Data Processing Planner (ADP Planner),urban,0.09%,7
+704,Germany,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.07%,6
+705,Germany,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.04%,3
+706,Germany,Business Database Analyst,urban,0.01%,1
+707,Germany,Clinical Data Abstractor,rural,0.01%,1
+708,Germany,Clinical Data Abstractor,urban,0.04%,3
+709,Germany,Clinical Data Analyst,rural,0.01%,1
+710,Germany,Clinical Data Analyst,urban,0.01%,1
+711,Germany,Clinical Data Associate,urban,0.01%,1
+712,Germany,Clinical Data Coordinator,rural,0.02%,2
+713,Germany,Clinical Data Coordinator,urban,0.01%,1
+714,Germany,Clinical Data Management Associate Director,rural,0.01%,1
+715,Germany,Clinical Data Management Associate Director,urban,0.02%,2
+716,Germany,Clinical Data Management Manager (CDM Manager),urban,0.01%,1
+717,Germany,Clinical Data Manager,rural,0.01%,1
+718,Germany,Clinical Trials Data Coordinator,urban,0.01%,1
+719,Germany,Computer or Data Processing Systems Consultant,rural,0.06%,5
+720,Germany,Computer or Data Processing Systems Consultant,urban,0.09%,7
+721,Germany,Crime Data Specialist,rural,0.01%,1
+722,Germany,Customer Data Technician,rural,0.01%,1
+723,Germany,Customer Data Technician,urban,0.01%,1
+724,Germany,Data Abstractor,rural,0.01%,1
+725,Germany,Data Abstractor,urban,0.01%,1
+726,Germany,Data Administrator,rural,0.07%,6
+727,Germany,Data Administrator,urban,0.09%,7
+728,Germany,Data Architect,rural,0.06%,5
+729,Germany,Data Architect,urban,0.1%,8
+730,Germany,Data Base Design Analyst,rural,0.05%,4
+731,Germany,Data Base Design Analyst,urban,0.07%,6
+732,Germany,Data Center Manager,rural,0.01%,1
+733,Germany,Data Center Manager,urban,0.01%,1
+734,Germany,Data Center Operator,rural,0.01%,1
+735,Germany,Data Center Operator,urban,0.05%,4
+736,Germany,Data Coder Operator,rural,0.01%,1
+737,Germany,Data Collection Technician,urban,0.04%,3
+738,Germany,Data Communications Analyst,rural,0.1%,8
+739,Germany,Data Communications Analyst,urban,0.06%,5
+740,Germany,Data Communications Software Consultant,rural,0.05%,4
+741,Germany,Data Communications Software Consultant,urban,0.07%,6
+742,Germany,Data Compiler,rural,0.02%,2
+743,Germany,Data Control Clerk Supervisor,rural,0.01%,1
+744,Germany,Data Conversion Operator,rural,0.02%,2
+745,Germany,Data Conversion Operator,urban,0.01%,1
+746,Germany,Data Coordinator,rural,0.05%,4
+747,Germany,Data Coordinator,urban,0.09%,7
+748,Germany,Data Entry Machine Operator,urban,0.01%,1
+749,Germany,Data Entry Representative,urban,0.02%,2
+750,Germany,Data Entry Supervisor,urban,0.02%,2
+751,Germany,Data Entry Technician,rural,0.01%,1
+752,Germany,Data Entry Technician,urban,0.02%,2
+753,Germany,Data Input Clerk,rural,0.01%,1
+754,Germany,Data Input Clerk,urban,0.01%,1
+755,Germany,Data Keyer,urban,0.02%,2
+756,Germany,Data Management Associate,rural,0.02%,2
+757,Germany,Data Management Associate,urban,0.04%,3
+758,Germany,Data Management Information Technology Specialist,rural,0.04%,3
+759,Germany,Data Management Information Technology Specialist,urban,0.1%,8
+760,Germany,Data Management Manager,rural,0.01%,1
+761,Germany,Data Manager,rural,0.01%,1
+762,Germany,Data Miner,rural,0.09%,7
+763,Germany,Data Miner,urban,0.01%,1
+764,Germany,Data Modeler,rural,0.01%,1
+765,Germany,Data Modeling Specialist,rural,0.06%,5
+766,Germany,Data Modeling Specialist,urban,0.09%,7
+767,Germany,Data Officer,rural,0.06%,5
+768,Germany,Data Officer,urban,0.16%,13
+769,Germany,Data Operations Director,rural,0.04%,3
+770,Germany,Data Processing Auditor,rural,0.04%,3
+771,Germany,Data Processing Auditor,urban,0.02%,2
+772,Germany,Data Processing Auxiliary Equipment Operator,urban,0.02%,2
+773,Germany,Data Processing Clerk,rural,0.01%,1
+774,Germany,Data Processing Consultant,rural,0.02%,2
+775,Germany,Data Processing Consultant,urban,0.1%,8
+776,Germany,Data Processing Control Clerk,urban,0.01%,1
+777,Germany,Data Processing Equipment Repairer,urban,0.01%,1
+778,Germany,Data Processing Manager,rural,0.07%,6
+779,Germany,Data Processing Manager,urban,0.06%,5
+780,Germany,Data Processing Services Sales Representative,rural,0.01%,1
+781,Germany,Data Processing Services Sales Representative,urban,0.04%,3
+782,Germany,Data Processing Supervisor,rural,0.01%,1
+783,Germany,Data Processing Systems Analyst,rural,0.05%,4
+784,Germany,Data Processing Systems Analyst,urban,0.05%,4
+785,Germany,Data Processing Systems Project Planner,rural,0.07%,6
+786,Germany,Data Processing Systems Project Planner,urban,0.05%,4
+787,Germany,Data Processor,rural,0.02%,2
+788,Germany,Data Processor,urban,0.01%,1
+789,Germany,Data Recovery Planner,urban,0.01%,1
+790,Germany,Data Reduction Technician,rural,0.01%,1
+791,Germany,Data Reduction Technician,urban,0.01%,1
+792,Germany,Data Sciences Director,rural,0.01%,1
+793,Germany,Data Sciences Director,urban,0.01%,1
+794,Germany,Data Scientist,rural,0.07%,6
+795,Germany,Data Scientist,urban,0.02%,2
+796,Germany,Data Security Administrator,rural,0.06%,5
+797,Germany,Data Security Administrator,urban,0.09%,7
+798,Germany,Data Security Analyst,rural,0.02%,2
+799,Germany,Data Security Analyst,urban,0.09%,7
+800,Germany,Data Specialist,rural,0.01%,1
+801,Germany,Data Specialist,urban,0.01%,1
+802,Germany,Data Storage Specialist,rural,0.09%,7
+803,Germany,Data Storage Specialist,urban,0.11%,9
+804,Germany,Data Systems Manager,rural,0.06%,5
+805,Germany,Data Systems Manager,urban,0.06%,5
+806,Germany,Data Technician,urban,0.01%,1
+807,Germany,Data Transcriber,rural,0.04%,3
+808,Germany,Data Typist,urban,0.02%,2
+809,Germany,Data Warehouse Analyst,rural,0.02%,2
+810,Germany,Data Warehouse Analyst,urban,0.09%,7
+811,Germany,Data Warehouse Architect,rural,0.05%,4
+812,Germany,Data Warehouse Architect,urban,0.1%,8
+813,Germany,Data Warehouse Developer,rural,0.09%,7
+814,Germany,Data Warehouse Developer,urban,0.1%,8
+815,Germany,Data Warehouse Specialist,rural,0.02%,2
+816,Germany,Data Warehouse Specialist,urban,0.12%,10
+817,Germany,Data Warehousing Engineer,rural,0.05%,4
+818,Germany,Data Warehousing Engineer,urban,0.04%,3
+819,Germany,Data Warehousing Manager,rural,0.04%,3
+820,Germany,Data Warehousing Manager,urban,0.06%,5
+821,Germany,Data Warehousing Specialist,rural,0.05%,4
+822,Germany,Data Warehousing Specialist,urban,0.09%,7
+823,Germany,Database Administration Associate,rural,0.04%,3
+824,Germany,Database Administration Associate,urban,0.07%,6
+825,Germany,Database Administration Manager,rural,0.1%,8
+826,Germany,Database Administration Manager,urban,0.07%,6
+827,Germany,Database Administration Project Manager,rural,0.01%,1
+828,Germany,Database Administration Project Manager,urban,0.02%,2
+829,Germany,Database Administrator (DBA),rural,0.05%,4
+830,Germany,Database Analyst,rural,0.02%,2
+831,Germany,Database Analyst,urban,0.05%,4
+832,Germany,Database Architect,rural,0.05%,4
+833,Germany,Database Architect,urban,0.06%,5
+834,Germany,Database Consultant,rural,0.01%,1
+835,Germany,Database Consultant,urban,0.15%,12
+836,Germany,Database Coordinator,rural,0.02%,2
+837,Germany,Database Coordinator,urban,0.09%,7
+838,Germany,Database Design Analyst,urban,0.05%,4
+839,Germany,Database Designer,rural,0.02%,2
+840,Germany,Database Designer,urban,0.04%,3
+841,Germany,Database Developer,urban,0.02%,2
+842,Germany,Database Development Project Manager,urban,0.01%,1
+843,Germany,Database Development and Administration Project Manager,rural,0.09%,7
+844,Germany,Database Development and Administration Project Manager,urban,0.06%,5
+845,Germany,Database Engineer,rural,0.06%,5
+846,Germany,Database Engineer,urban,0.1%,8
+847,Germany,Database Management System Specialist (DBMS Specialist),rural,0.05%,4
+848,Germany,Database Management System Specialist (DBMS Specialist),urban,0.13%,11
+849,Germany,Database Manager,rural,0.05%,4
+850,Germany,Database Manager,urban,0.09%,7
+851,Germany,Database Marketing Analyst,rural,0.05%,4
+852,Germany,Database Marketing Analyst,urban,0.05%,4
+853,Germany,Database Modeler,rural,0.02%,2
+854,Germany,Database Modeler,urban,0.11%,9
+855,Germany,Database Programmer,urban,0.01%,1
+856,Germany,Database Security Administrator,rural,0.04%,3
+857,Germany,Database Security Administrator,urban,0.02%,2
+858,Germany,Database Security Expert,rural,0.05%,4
+859,Germany,Database Security Expert,urban,0.04%,3
+860,Germany,Database Software Technician,rural,0.04%,3
+861,Germany,Database Software Technician,urban,0.1%,8
+862,Germany,Database Specialist,rural,0.06%,5
+863,Germany,Database Specialist,urban,0.07%,6
+864,Germany,Database Tester,rural,0.05%,4
+865,Germany,Database Tester,urban,0.04%,3
+866,Germany,Databases Computer Consultant,rural,0.04%,3
+867,Germany,Databases Computer Consultant,urban,0.06%,5
+868,Germany,Databases Software Consultant,rural,0.05%,4
+869,Germany,Databases Software Consultant,urban,0.02%,2
+870,Germany,Datastage Developer,rural,0.01%,1
+871,Germany,Datastage Developer,urban,0.02%,2
+872,Germany,Director of Data Operations,rural,0.04%,3
+873,Germany,Director of Data Operations,urban,0.05%,4
+874,Germany,Electronic Data Interchange System Developer (EDI System Developer),rural,0.1%,8
+875,Germany,Electronic Data Interchange System Developer (EDI System Developer),urban,0.06%,5
+876,Germany,Electronic Data Processing Auditor (EDP Auditor),rural,0.01%,1
+877,Germany,Electronic Data Processing Auditor (EDP Auditor),urban,0.1%,8
+878,Germany,"Engineer, System Electronic Data Processing (Engineer, System EDP)",rural,0.01%,1
+879,Germany,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.12%,10
+880,Germany,Field Artillery Automated Tactical Data System Specialist,urban,0.01%,1
+881,Germany,Field Traffic Data Technician,urban,0.02%,2
+882,Germany,Flight Data Technician,rural,0.02%,2
+883,Germany,Flight Data Technician,urban,0.02%,2
+884,Germany,Flight Test Data Acquisition Technician,rural,0.01%,1
+885,Germany,Flight Test Data Acquisition Technician,urban,0.01%,1
+886,Germany,GPS Field Data Collector (Global Positioning System Field Data Collector),rural,0.01%,1
+887,Germany,GPS Field Data Collector (Global Positioning System Field Data Collector),urban,0.04%,3
+888,Germany,Geographic Information Systems Data Administrator (GIS Data Administrator),rural,0.05%,4
+889,Germany,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.07%,6
+890,Germany,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.02%,2
+891,Germany,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.1%,8
+892,Germany,Geographic Information Systems Data Specialist (GIS Data Specialist),rural,0.06%,5
+893,Germany,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.12%,10
+894,Germany,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.04%,3
+895,Germany,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.1%,8
+896,Germany,Head of Information Systems and Data Processing,rural,0.04%,3
+897,Germany,Head of Information Systems and Data Processing,urban,0.11%,9
+898,Germany,Health Data Analyst,urban,0.01%,1
+899,Germany,Internet Database Specialist,rural,0.02%,2
+900,Germany,Internet Database Specialist,urban,0.11%,9
+901,Germany,LiDAR Data Analyst,urban,0.01%,1
+902,Germany,Log Data Technician,urban,0.04%,3
+903,Germany,Maintenance Data Analyst,rural,0.01%,1
+904,Germany,Marketing Database Analyst,rural,0.01%,1
+905,Germany,Marketing Database Analyst,urban,0.02%,2
+906,Germany,Medical Data Analyst,rural,0.01%,1
+907,Germany,Medical Data Analyst,urban,0.01%,1
+908,Germany,Micro Computer Data Processor,rural,0.01%,1
+909,Germany,Micro Computer Data Processor,urban,0.01%,1
+910,Germany,Naval Tactical Data System--Combat Information Center Officer,urban,0.01%,1
+911,Germany,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",urban,0.04%,3
+912,Germany,"Naval Tactical Data System--Combat Information Center Watch Officer, General",urban,0.02%,2
+913,Germany,Oracle Database Administrator (Oracle DBA),rural,0.11%,9
+914,Germany,Oracle Database Administrator (Oracle DBA),urban,0.11%,9
+915,Germany,SCADA Operator (Supervisory Control and Data Acquisition Operator),rural,0.02%,2
+916,Germany,SCADA Operator (Supervisory Control and Data Acquisition Operator),urban,0.01%,1
+917,Germany,SCADA Technician (Supervisory Control and Data Acquisition Technician),rural,0.01%,1
+918,Germany,SQL Database Administrator,urban,0.06%,5
+919,Germany,Survey Data Technician,rural,0.01%,1
+920,Germany,Unemployed,rural,2.95%,243
+921,Germany,Unemployed,urban,4.45%,366
+922,Germany,Voice and Data Technician,rural,0.02%,2
+923,Germany,Voice and Data Technician,urban,0.02%,2
+924,Hungary,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.01%,1
+925,Hungary,Automatic Data Processing Planner,urban,0.01%,1
+926,Hungary,Automatic Data Processing Planner (ADP Planner),urban,0.05%,4
+927,Hungary,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.01%,1
+928,Hungary,Customer Data Technician,urban,0.01%,1
+929,Hungary,Data Acquisition Technician,rural,0.01%,1
+930,Hungary,Data Administrator,rural,0.01%,1
+931,Hungary,Data Administrator,urban,0.04%,3
+932,Hungary,Data Analysis Assistant,urban,0.01%,1
+933,Hungary,Data Architect,urban,0.02%,2
+934,Hungary,Data Base Design Analyst,urban,0.02%,2
+935,Hungary,Data Capture Clerk,urban,0.01%,1
+936,Hungary,Data Capture Specialist,urban,0.01%,1
+937,Hungary,Data Collection Technician,rural,0.01%,1
+938,Hungary,Data Communications Software Consultant,urban,0.01%,1
+939,Hungary,Data Conversion Operator,urban,0.01%,1
+940,Hungary,Data Coordinator,rural,0.01%,1
+941,Hungary,Data Coordinator,urban,0.02%,2
+942,Hungary,Data Entry Machine Operator,urban,0.01%,1
+943,Hungary,Data Entry Supervisor,rural,0.01%,1
+944,Hungary,Data Entry Technician,urban,0.01%,1
+945,Hungary,Data Keyer,rural,0.01%,1
+946,Hungary,Data Management Associate,rural,0.01%,1
+947,Hungary,Data Management Associate,urban,0.02%,2
+948,Hungary,Data Management Information Technology Specialist,rural,0.01%,1
+949,Hungary,Data Management Information Technology Specialist,urban,0.01%,1
+950,Hungary,Data Miner,rural,0.05%,4
+951,Hungary,Data Miner,urban,0.01%,1
+952,Hungary,Data Modeling Specialist,rural,0.02%,2
+953,Hungary,Data Operations Director,urban,0.01%,1
+954,Hungary,Data Processing Auditor,rural,0.01%,1
+955,Hungary,Data Processing Auditor,urban,0.01%,1
+956,Hungary,Data Processing Auxiliary Equipment Operator,rural,0.01%,1
+957,Hungary,Data Processing Manager,rural,0.01%,1
+958,Hungary,Data Processing Services Sales Representative,urban,0.04%,3
+959,Hungary,Data Processing Supervisor,urban,0.01%,1
+960,Hungary,Data Processing Systems Analyst,urban,0.02%,2
+961,Hungary,Data Processing Systems Project Planner,urban,0.01%,1
+962,Hungary,Data Processor,urban,0.01%,1
+963,Hungary,Data Specialist,urban,0.02%,2
+964,Hungary,Data Storage Specialist,rural,0.01%,1
+965,Hungary,Data Storage Specialist,urban,0.02%,2
+966,Hungary,Data Warehouse Analyst,rural,0.01%,1
+967,Hungary,Data Warehouse Analyst,urban,0.01%,1
+968,Hungary,Data Warehouse Architect,urban,0.01%,1
+969,Hungary,Data Warehouse Developer,urban,0.01%,1
+970,Hungary,Data Warehouse Specialist,rural,0.04%,3
+971,Hungary,Data Warehouse Specialist,urban,0.01%,1
+972,Hungary,Data Warehousing Engineer,rural,0.01%,1
+973,Hungary,Data Warehousing Manager,urban,0.01%,1
+974,Hungary,Data Warehousing Specialist,urban,0.01%,1
+975,Hungary,Database Administration Associate,rural,0.02%,2
+976,Hungary,Database Administration Associate,urban,0.01%,1
+977,Hungary,Database Administration Manager,rural,0.01%,1
+978,Hungary,Database Administration Manager,urban,0.01%,1
+979,Hungary,Database Analyst,rural,0.01%,1
+980,Hungary,Database Consultant,rural,0.02%,2
+981,Hungary,Database Coordinator,rural,0.02%,2
+982,Hungary,Database Coordinator,urban,0.01%,1
+983,Hungary,Database Design Analyst,urban,0.01%,1
+984,Hungary,Database Designer,urban,0.01%,1
+985,Hungary,Database Developer,urban,0.01%,1
+986,Hungary,Database Engineer,urban,0.02%,2
+987,Hungary,Database Management System Specialist (DBMS Specialist),rural,0.01%,1
+988,Hungary,Database Management System Specialist (DBMS Specialist),urban,0.01%,1
+989,Hungary,Database Manager,urban,0.01%,1
+990,Hungary,Database Marketing Analyst,urban,0.02%,2
+991,Hungary,Database Modeler,rural,0.01%,1
+992,Hungary,Database Programmer,rural,0.01%,1
+993,Hungary,Database Security Administrator,urban,0.01%,1
+994,Hungary,Database Software Technician,urban,0.02%,2
+995,Hungary,Database Tester,urban,0.01%,1
+996,Hungary,Databases Computer Consultant,urban,0.02%,2
+997,Hungary,Databases Software Consultant,rural,0.01%,1
+998,Hungary,Databases Software Consultant,urban,0.01%,1
+999,Hungary,Datastage Developer,urban,0.01%,1
+1000,Hungary,Director of Data Operations,urban,0.02%,2
+1001,Hungary,Electronic Data Interchange System Developer (EDI System Developer),urban,0.01%,1
+1002,Hungary,Electronic Data Processing Auditor (EDP Auditor),rural,0.01%,1
+1003,Hungary,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.02%,2
+1004,Hungary,Field Traffic Data Technician,urban,0.02%,2
+1005,Hungary,Flight Test Data Acquisition Technician,rural,0.01%,1
+1006,Hungary,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.01%,1
+1007,Hungary,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.04%,3
+1008,Hungary,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.02%,2
+1009,Hungary,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.01%,1
+1010,Hungary,Head of Information Systems and Data Processing,rural,0.02%,2
+1011,Hungary,Head of Information Systems and Data Processing,urban,0.01%,1
+1012,Hungary,Health Data Analyst,urban,0.01%,1
+1013,Hungary,Internet Database Specialist,urban,0.02%,2
+1014,Hungary,Marketing Database Analyst,urban,0.01%,1
+1015,Hungary,Naval Tactical Data System--Combat Information Center Officer,urban,0.01%,1
+1016,Hungary,"Operations Officer, Afloat (Naval Tactical Data Systems)",rural,0.01%,1
+1017,Hungary,Oracle Database Administrator (Oracle DBA),urban,0.01%,1
+1018,Hungary,SQL Database Administrator,rural,0.02%,2
+1019,Hungary,SQL Database Administrator,urban,0.02%,2
+1020,Hungary,Unemployed,rural,0.23%,19
+1021,Hungary,Unemployed,urban,0.66%,54
+1022,Ireland,Automatic Data Processing Planner (ADP Planner),rural,0.01%,1
+1023,Ireland,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.01%,1
+1024,Ireland,Data Acquisition Technician,urban,0.01%,1
+1025,Ireland,Data Architect,rural,0.01%,1
+1026,Ireland,Data Communications Analyst,urban,0.02%,2
+1027,Ireland,Data Control Clerk Supervisor,urban,0.01%,1
+1028,Ireland,Data Input Clerk,urban,0.01%,1
+1029,Ireland,Data Management Associate,urban,0.02%,2
+1030,Ireland,Data Miner,rural,0.01%,1
+1031,Ireland,Data Processing Auditor,urban,0.02%,2
+1032,Ireland,Data Processing Consultant,urban,0.02%,2
+1033,Ireland,Data Processing Manager,urban,0.01%,1
+1034,Ireland,Data Processing Mechanic,rural,0.01%,1
+1035,Ireland,Data Processing Systems Analyst,urban,0.02%,2
+1036,Ireland,Data Processing Systems Project Planner,urban,0.01%,1
+1037,Ireland,Data Scientist,urban,0.01%,1
+1038,Ireland,Data Security Administrator,urban,0.01%,1
+1039,Ireland,Data Specialist,urban,0.01%,1
+1040,Ireland,Data Systems Manager,rural,0.01%,1
+1041,Ireland,Data Systems Manager,urban,0.01%,1
+1042,Ireland,Data Warehouse Analyst,urban,0.01%,1
+1043,Ireland,Data Warehousing Manager,rural,0.01%,1
+1044,Ireland,Data Warehousing Specialist,urban,0.01%,1
+1045,Ireland,Database Administration Associate,urban,0.01%,1
+1046,Ireland,Database Architect,urban,0.01%,1
+1047,Ireland,Database Consultant,rural,0.01%,1
+1048,Ireland,Database Designer,urban,0.01%,1
+1049,Ireland,Database Modeler,urban,0.02%,2
+1050,Ireland,Database Security Administrator,rural,0.01%,1
+1051,Ireland,Database Tester,rural,0.01%,1
+1052,Ireland,Database Tester,urban,0.01%,1
+1053,Ireland,Electronic Data Processing Auditor (EDP Auditor),rural,0.01%,1
+1054,Ireland,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.02%,2
+1055,Ireland,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.01%,1
+1056,Ireland,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.01%,1
+1057,Ireland,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.01%,1
+1058,Ireland,LiDAR Data Analyst,urban,0.01%,1
+1059,Ireland,"Operations Officer, Afloat (Naval Tactical Data Systems)",urban,0.01%,1
+1060,Ireland,Oracle Database Administrator (Oracle DBA),urban,0.01%,1
+1061,Ireland,Reference Data Expert,rural,0.01%,1
+1062,Ireland,SQL Database Administrator,rural,0.01%,1
+1063,Ireland,Unemployed,rural,0.22%,18
+1064,Ireland,Unemployed,urban,0.29%,24
+1065,Italy,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.02%,2
+1066,Italy,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.1%,8
+1067,Italy,Automatic Data Processing Planner,rural,0.02%,2
+1068,Italy,Automatic Data Processing Planner,urban,0.06%,5
+1069,Italy,Automatic Data Processing Planner (ADP Planner),rural,0.01%,1
+1070,Italy,Automatic Data Processing Planner (ADP Planner),urban,0.1%,8
+1071,Italy,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.01%,1
+1072,Italy,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.09%,7
+1073,Italy,Business Database Analyst,urban,0.01%,1
+1074,Italy,Clinical Data Abstractor,urban,0.01%,1
+1075,Italy,Clinical Data Analyst,rural,0.01%,1
+1076,Italy,Clinical Data Associate,urban,0.02%,2
+1077,Italy,Clinical Data Coordinator,urban,0.01%,1
+1078,Italy,Clinical Data Management Associate Director,urban,0.01%,1
+1079,Italy,Clinical Data Management Manager (CDM Manager),urban,0.04%,3
+1080,Italy,Clinical Data Specialist,urban,0.02%,2
+1081,Italy,Computer or Data Processing Systems Consultant,rural,0.02%,2
+1082,Italy,Computer or Data Processing Systems Consultant,urban,0.06%,5
+1083,Italy,Customer Data Technician,urban,0.01%,1
+1084,Italy,Data Acquisition Technician,urban,0.02%,2
+1085,Italy,Data Administrator,rural,0.04%,3
+1086,Italy,Data Administrator,urban,0.12%,10
+1087,Italy,Data Analysis Assistant,urban,0.01%,1
+1088,Italy,Data Analyst,urban,0.02%,2
+1089,Italy,Data Architect,rural,0.04%,3
+1090,Italy,Data Architect,urban,0.1%,8
+1091,Italy,Data Base Design Analyst,rural,0.01%,1
+1092,Italy,Data Base Design Analyst,urban,0.1%,8
+1093,Italy,Data Capture Clerk,rural,0.01%,1
+1094,Italy,Data Capture Clerk,urban,0.02%,2
+1095,Italy,Data Center Operator,rural,0.01%,1
+1096,Italy,Data Coder Operator,urban,0.06%,5
+1097,Italy,Data Collection Technician,urban,0.01%,1
+1098,Italy,Data Collector,urban,0.02%,2
+1099,Italy,Data Communications Analyst,rural,0.02%,2
+1100,Italy,Data Communications Analyst,urban,0.09%,7
+1101,Italy,Data Communications Software Consultant,urban,0.06%,5
+1102,Italy,Data Communications Technician,rural,0.01%,1
+1103,Italy,Data Compiler,rural,0.02%,2
+1104,Italy,Data Compiler,urban,0.01%,1
+1105,Italy,Data Control Assistant,urban,0.02%,2
+1106,Italy,Data Control Clerk Supervisor,urban,0.02%,2
+1107,Italy,Data Conversion Operator,urban,0.01%,1
+1108,Italy,Data Coordinator,rural,0.02%,2
+1109,Italy,Data Coordinator,urban,0.1%,8
+1110,Italy,Data Entry Associate,urban,0.01%,1
+1111,Italy,Data Entry Clerk,rural,0.01%,1
+1112,Italy,Data Entry Clerk,urban,0.02%,2
+1113,Italy,Data Entry Machine Operator,urban,0.01%,1
+1114,Italy,Data Entry Operator,rural,0.01%,1
+1115,Italy,Data Entry Representative,rural,0.04%,3
+1116,Italy,Data Entry Specialist,rural,0.01%,1
+1117,Italy,Data Entry Supervisor,rural,0.01%,1
+1118,Italy,Data Entry Supervisor,urban,0.02%,2
+1119,Italy,Data Examination Clerk,urban,0.01%,1
+1120,Italy,Data Input Clerk,urban,0.05%,4
+1121,Italy,Data Management Associate,rural,0.01%,1
+1122,Italy,Data Management Associate,urban,0.06%,5
+1123,Italy,Data Management Information Technology Specialist,rural,0.02%,2
+1124,Italy,Data Management Information Technology Specialist,urban,0.09%,7
+1125,Italy,Data Manager,urban,0.05%,4
+1126,Italy,Data Miner,rural,0.02%,2
+1127,Italy,Data Miner,urban,0.15%,12
+1128,Italy,Data Modeler,urban,0.01%,1
+1129,Italy,Data Modeling Specialist,rural,0.01%,1
+1130,Italy,Data Modeling Specialist,urban,0.15%,12
+1131,Italy,Data Officer,rural,0.06%,5
+1132,Italy,Data Officer,urban,0.12%,10
+1133,Italy,Data Operations Director,rural,0.01%,1
+1134,Italy,Data Operations Director,urban,0.04%,3
+1135,Italy,Data Processing Auditor,rural,0.05%,4
+1136,Italy,Data Processing Auditor,urban,0.11%,9
+1137,Italy,Data Processing Auxiliary Equipment Operator,urban,0.01%,1
+1138,Italy,Data Processing Consultant,rural,0.01%,1
+1139,Italy,Data Processing Consultant,urban,0.04%,3
+1140,Italy,Data Processing Control Clerk,urban,0.02%,2
+1141,Italy,Data Processing Manager,urban,0.06%,5
+1142,Italy,Data Processing Services Sales Representative,urban,0.01%,1
+1143,Italy,Data Processing Supervisor,rural,0.01%,1
+1144,Italy,Data Processing Systems Analyst,urban,0.11%,9
+1145,Italy,Data Processing Systems Project Planner,rural,0.01%,1
+1146,Italy,Data Processing Systems Project Planner,urban,0.11%,9
+1147,Italy,Data Processor,rural,0.01%,1
+1148,Italy,Data Processor,urban,0.02%,2
+1149,Italy,Data Reduction Technician,rural,0.01%,1
+1150,Italy,Data Sciences Director,rural,0.01%,1
+1151,Italy,Data Sciences Director,urban,0.01%,1
+1152,Italy,Data Scientist,rural,0.01%,1
+1153,Italy,Data Scientist,urban,0.13%,11
+1154,Italy,Data Security Administrator,urban,0.04%,3
+1155,Italy,Data Security Analyst,urban,0.07%,6
+1156,Italy,Data Specialist,rural,0.01%,1
+1157,Italy,Data Storage Specialist,rural,0.02%,2
+1158,Italy,Data Storage Specialist,urban,0.12%,10
+1159,Italy,Data Systems Manager,rural,0.01%,1
+1160,Italy,Data Systems Manager,urban,0.09%,7
+1161,Italy,Data Technician,urban,0.01%,1
+1162,Italy,Data Transcriber,rural,0.01%,1
+1163,Italy,Data Typist,urban,0.04%,3
+1164,Italy,Data Warehouse Analyst,rural,0.01%,1
+1165,Italy,Data Warehouse Analyst,urban,0.09%,7
+1166,Italy,Data Warehouse Architect,rural,0.05%,4
+1167,Italy,Data Warehouse Architect,urban,0.12%,10
+1168,Italy,Data Warehouse Developer,rural,0.02%,2
+1169,Italy,Data Warehouse Developer,urban,0.06%,5
+1170,Italy,Data Warehouse Specialist,rural,0.01%,1
+1171,Italy,Data Warehouse Specialist,urban,0.1%,8
+1172,Italy,Data Warehousing Engineer,rural,0.01%,1
+1173,Italy,Data Warehousing Engineer,urban,0.09%,7
+1174,Italy,Data Warehousing Manager,rural,0.06%,5
+1175,Italy,Data Warehousing Manager,urban,0.1%,8
+1176,Italy,Data Warehousing Specialist,rural,0.04%,3
+1177,Italy,Data Warehousing Specialist,urban,0.07%,6
+1178,Italy,Database Administration Associate,urban,0.07%,6
+1179,Italy,Database Administration Manager,rural,0.02%,2
+1180,Italy,Database Administration Manager,urban,0.12%,10
+1181,Italy,Database Administration Project Manager,rural,0.01%,1
+1182,Italy,Database Administrator (DBA),rural,0.01%,1
+1183,Italy,Database Analyst,urban,0.04%,3
+1184,Italy,Database Architect,rural,0.05%,4
+1185,Italy,Database Architect,urban,0.13%,11
+1186,Italy,Database Consultant,rural,0.05%,4
+1187,Italy,Database Consultant,urban,0.09%,7
+1188,Italy,Database Coordinator,rural,0.01%,1
+1189,Italy,Database Coordinator,urban,0.05%,4
+1190,Italy,Database Design Analyst,rural,0.02%,2
+1191,Italy,Database Design Analyst,urban,0.07%,6
+1192,Italy,Database Designer,rural,0.01%,1
+1193,Italy,Database Designer,urban,0.1%,8
+1194,Italy,Database Developer,urban,0.02%,2
+1195,Italy,Database Development Project Manager,rural,0.01%,1
+1196,Italy,Database Development Project Manager,urban,0.01%,1
+1197,Italy,Database Development and Administration Project Manager,rural,0.05%,4
+1198,Italy,Database Development and Administration Project Manager,urban,0.07%,6
+1199,Italy,Database Engineer,rural,0.01%,1
+1200,Italy,Database Engineer,urban,0.09%,7
+1201,Italy,Database Management System Specialist (DBMS Specialist),urban,0.12%,10
+1202,Italy,Database Manager,rural,0.06%,5
+1203,Italy,Database Manager,urban,0.04%,3
+1204,Italy,Database Marketing Analyst,urban,0.09%,7
+1205,Italy,Database Modeler,rural,0.02%,2
+1206,Italy,Database Modeler,urban,0.05%,4
+1207,Italy,Database Programmer,urban,0.02%,2
+1208,Italy,Database Security Administrator,rural,0.02%,2
+1209,Italy,Database Security Administrator,urban,0.11%,9
+1210,Italy,Database Security Expert,rural,0.01%,1
+1211,Italy,Database Security Expert,urban,0.1%,8
+1212,Italy,Database Software Technician,rural,0.04%,3
+1213,Italy,Database Software Technician,urban,0.1%,8
+1214,Italy,Database Specialist,urban,0.04%,3
+1215,Italy,Database Tester,rural,0.05%,4
+1216,Italy,Database Tester,urban,0.07%,6
+1217,Italy,Databases Computer Consultant,rural,0.01%,1
+1218,Italy,Databases Computer Consultant,urban,0.04%,3
+1219,Italy,Databases Software Consultant,rural,0.01%,1
+1220,Italy,Databases Software Consultant,urban,0.02%,2
+1221,Italy,Datastage Developer,urban,0.01%,1
+1222,Italy,Director of Data Operations,rural,0.02%,2
+1223,Italy,Director of Data Operations,urban,0.07%,6
+1224,Italy,Electronic Data Interchange System Developer (EDI System Developer),rural,0.01%,1
+1225,Italy,Electronic Data Interchange System Developer (EDI System Developer),urban,0.06%,5
+1226,Italy,Electronic Data Processing Auditor (EDP Auditor),rural,0.02%,2
+1227,Italy,Electronic Data Processing Auditor (EDP Auditor),urban,0.07%,6
+1228,Italy,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.1%,8
+1229,Italy,Field Artillery Automated Tactical Data System Specialist,rural,0.01%,1
+1230,Italy,Field Artillery Automated Tactical Data System Specialist,urban,0.01%,1
+1231,Italy,Field Traffic Data Technician,urban,0.01%,1
+1232,Italy,Flight Data Technician,rural,0.01%,1
+1233,Italy,Flight Data Technician,urban,0.02%,2
+1234,Italy,Flight Test Data Acquisition Technician,rural,0.01%,1
+1235,Italy,GPS Field Data Collector (Global Positioning System Field Data Collector),urban,0.01%,1
+1236,Italy,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.06%,5
+1237,Italy,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.01%,1
+1238,Italy,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.06%,5
+1239,Italy,Geographic Information Systems Data Specialist (GIS Data Specialist),rural,0.02%,2
+1240,Italy,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.07%,6
+1241,Italy,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.04%,3
+1242,Italy,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.11%,9
+1243,Italy,Head of Information Systems and Data Processing,rural,0.01%,1
+1244,Italy,Head of Information Systems and Data Processing,urban,0.05%,4
+1245,Italy,Health Data Analyst,urban,0.04%,3
+1246,Italy,Internet Database Specialist,rural,0.02%,2
+1247,Italy,Internet Database Specialist,urban,0.11%,9
+1248,Italy,Marketing Database Analyst,rural,0.01%,1
+1249,Italy,Micro Computer Data Processor,urban,0.02%,2
+1250,Italy,Naval Tactical Data System--Combat Information Center Officer,urban,0.01%,1
+1251,Italy,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",rural,0.01%,1
+1252,Italy,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",urban,0.04%,3
+1253,Italy,"Naval Tactical Data System--Combat Information Center Watch Officer, General",urban,0.02%,2
+1254,Italy,"Operations Officer, Afloat (Naval Tactical Data Systems)",rural,0.01%,1
+1255,Italy,"Operations Officer, Afloat (Naval Tactical Data Systems)",urban,0.02%,2
+1256,Italy,Oracle Database Administrator (Oracle DBA),rural,0.02%,2
+1257,Italy,Oracle Database Administrator (Oracle DBA),urban,0.02%,2
+1258,Italy,SCADA Operator (Supervisory Control and Data Acquisition Operator),urban,0.01%,1
+1259,Italy,SCADA Technician (Supervisory Control and Data Acquisition Technician),rural,0.01%,1
+1260,Italy,SCADA Technician (Supervisory Control and Data Acquisition Technician),urban,0.01%,1
+1261,Italy,SQL Database Administrator,rural,0.01%,1
+1262,Italy,SQL Database Administrator,urban,0.1%,8
+1263,Italy,Scientific Database Curator,rural,0.01%,1
+1264,Italy,Scientific Database Curator,urban,0.02%,2
+1265,Italy,Survey Data Technician,urban,0.01%,1
+1266,Italy,Unemployed,rural,1.46%,120
+1267,Italy,Unemployed,urban,3.96%,326
+1268,Italy,Voice and Data Technician,urban,0.04%,3
+1269,Italy,Weight in Motion Field Data Collection Technician,rural,0.02%,2
+1270,Latvia,Clinical Data Manager,urban,0.01%,1
+1271,Latvia,Data Analyst,urban,0.01%,1
+1272,Latvia,Data Architect,urban,0.01%,1
+1273,Latvia,Data Base Design Analyst,urban,0.01%,1
+1274,Latvia,Data Communications Analyst,urban,0.01%,1
+1275,Latvia,Data Conversion Operator,urban,0.01%,1
+1276,Latvia,Data Coordinator,urban,0.01%,1
+1277,Latvia,Data Operations Director,urban,0.01%,1
+1278,Latvia,Data Processing Clerk,rural,0.01%,1
+1279,Latvia,Data Processing Manager,rural,0.01%,1
+1280,Latvia,Data Processing Systems Project Planner,rural,0.01%,1
+1281,Latvia,Data Systems Manager,urban,0.01%,1
+1282,Latvia,Data Warehouse Architect,urban,0.01%,1
+1283,Latvia,Data Warehousing Engineer,urban,0.02%,2
+1284,Latvia,Data Warehousing Manager,urban,0.01%,1
+1285,Latvia,Data Warehousing Specialist,urban,0.01%,1
+1286,Latvia,Database Administration Associate,urban,0.01%,1
+1287,Latvia,Database Design Analyst,rural,0.01%,1
+1288,Latvia,Databases Computer Consultant,urban,0.01%,1
+1289,Latvia,Director of Data Operations,rural,0.01%,1
+1290,Latvia,Head of Information Systems and Data Processing,rural,0.01%,1
+1291,Latvia,Unemployed,rural,0.05%,4
+1292,Latvia,Unemployed,urban,0.11%,9
+1293,Latvia,Weight in Motion Field Data Collection Technician,urban,0.01%,1
+1294,Lithuania,Automatic Data Processing Planner (ADP Planner),urban,0.02%,2
+1295,Lithuania,Clinical Data Management Associate Director,urban,0.01%,1
+1296,Lithuania,Data Communications Software Consultant,urban,0.02%,2
+1297,Lithuania,Data Entry Specialist,urban,0.01%,1
+1298,Lithuania,Data Operations Director,urban,0.01%,1
+1299,Lithuania,Data Processing Auditor,urban,0.01%,1
+1300,Lithuania,Data Processing Systems Project Planner,urban,0.01%,1
+1301,Lithuania,Data Security Administrator,urban,0.01%,1
+1302,Lithuania,Data Warehouse Architect,urban,0.01%,1
+1303,Lithuania,Data Warehouse Specialist,urban,0.01%,1
+1304,Lithuania,Database Administration Manager,urban,0.01%,1
+1305,Lithuania,Database Design Analyst,urban,0.01%,1
+1306,Lithuania,Database Designer,urban,0.01%,1
+1307,Lithuania,Database Management System Specialist (DBMS Specialist),urban,0.01%,1
+1308,Lithuania,Database Manager,urban,0.01%,1
+1309,Lithuania,Database Security Administrator,urban,0.01%,1
+1310,Lithuania,Database Specialist,urban,0.01%,1
+1311,Lithuania,Databases Software Consultant,urban,0.02%,2
+1312,Lithuania,Director of Data Operations,urban,0.01%,1
+1313,Lithuania,Electronic Data Processing Auditor (EDP Auditor),urban,0.02%,2
+1314,Lithuania,Internet Database Specialist,urban,0.01%,1
+1315,Lithuania,Maintenance Data Analyst,urban,0.01%,1
+1316,Lithuania,Oracle Database Administrator (Oracle DBA),urban,0.01%,1
+1317,Lithuania,SQL Database Administrator,urban,0.01%,1
+1318,Lithuania,Unemployed,rural,0.09%,7
+1319,Lithuania,Unemployed,urban,0.17%,14
+1320,Lithuania,Voice and Data Technician,urban,0.01%,1
+1321,Luxembourg,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.02%,2
+1322,Luxembourg,Data Communications Software Consultant,rural,0.01%,1
+1323,Luxembourg,Data Conversion Operator,rural,0.01%,1
+1324,Luxembourg,Data Processing Auditor,urban,0.01%,1
+1325,Luxembourg,Data Storage Specialist,rural,0.01%,1
+1326,Luxembourg,Database Design Analyst,rural,0.01%,1
+1327,Luxembourg,Database Security Administrator,urban,0.01%,1
+1328,Luxembourg,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.01%,1
+1329,Luxembourg,Unemployed,rural,0.01%,1
+1330,Luxembourg,Unemployed,urban,0.01%,1
+1331,Malta,Data Scientist,rural,0.01%,1
+1332,Malta,Database Coordinator,rural,0.01%,1
+1333,Malta,Database Coordinator,urban,0.01%,1
+1334,Malta,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.01%,1
+1335,Malta,Internet Database Specialist,urban,0.01%,1
+1336,Malta,Unemployed,rural,0.02%,2
+1337,Malta,Unemployed,urban,0.01%,1
+1338,Netherlands,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.01%,1
+1339,Netherlands,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.01%,1
+1340,Netherlands,Automatic Data Processing Planner,urban,0.04%,3
+1341,Netherlands,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.01%,1
+1342,Netherlands,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.02%,2
+1343,Netherlands,Business Database Analyst,urban,0.01%,1
+1344,Netherlands,Clinical Data Associate,urban,0.01%,1
+1345,Netherlands,Clinical Data Manager,rural,0.01%,1
+1346,Netherlands,Computer or Data Processing Systems Consultant,urban,0.02%,2
+1347,Netherlands,Data Administrator,urban,0.04%,3
+1348,Netherlands,Data Analysis Assistant,rural,0.01%,1
+1349,Netherlands,Data Analyst,rural,0.01%,1
+1350,Netherlands,Data Center Operator,rural,0.01%,1
+1351,Netherlands,Data Center Operator,urban,0.01%,1
+1352,Netherlands,Data Collection Technician,urban,0.01%,1
+1353,Netherlands,Data Collector,rural,0.01%,1
+1354,Netherlands,Data Communications Analyst,urban,0.01%,1
+1355,Netherlands,Data Communications Software Consultant,urban,0.01%,1
+1356,Netherlands,Data Compiler,rural,0.01%,1
+1357,Netherlands,Data Control Assistant,rural,0.01%,1
+1358,Netherlands,Data Control Assistant,urban,0.01%,1
+1359,Netherlands,Data Control Clerk Supervisor,urban,0.02%,2
+1360,Netherlands,Data Coordinator,rural,0.01%,1
+1361,Netherlands,Data Entry Associate,urban,0.01%,1
+1362,Netherlands,Data Entry Supervisor,rural,0.01%,1
+1363,Netherlands,Data Examination Clerk,rural,0.01%,1
+1364,Netherlands,Data Management Associate,urban,0.05%,4
+1365,Netherlands,Data Management Information Technology Specialist,urban,0.02%,2
+1366,Netherlands,Data Manager,urban,0.01%,1
+1367,Netherlands,Data Miner,urban,0.02%,2
+1368,Netherlands,Data Modeling Specialist,urban,0.02%,2
+1369,Netherlands,Data Processing Auditor,rural,0.01%,1
+1370,Netherlands,Data Processing Consultant,urban,0.02%,2
+1371,Netherlands,Data Processing Control Clerk,urban,0.01%,1
+1372,Netherlands,Data Processing Equipment Repairer,rural,0.02%,2
+1373,Netherlands,Data Processing Equipment Repairer,urban,0.01%,1
+1374,Netherlands,Data Processing Manager,rural,0.04%,3
+1375,Netherlands,Data Processing Manager,urban,0.01%,1
+1376,Netherlands,Data Processing Mechanic,urban,0.01%,1
+1377,Netherlands,Data Processing Services Sales Representative,urban,0.01%,1
+1378,Netherlands,Data Processing Systems Analyst,rural,0.02%,2
+1379,Netherlands,Data Processing Systems Analyst,urban,0.05%,4
+1380,Netherlands,Data Sciences Director,urban,0.01%,1
+1381,Netherlands,Data Scientist,urban,0.04%,3
+1382,Netherlands,Data Security Administrator,rural,0.01%,1
+1383,Netherlands,Data Security Administrator,urban,0.01%,1
+1384,Netherlands,Data Security Analyst,rural,0.01%,1
+1385,Netherlands,Data Security Analyst,urban,0.04%,3
+1386,Netherlands,Data Systems Manager,urban,0.01%,1
+1387,Netherlands,Data Technician,rural,0.01%,1
+1388,Netherlands,Data Warehouse Analyst,rural,0.01%,1
+1389,Netherlands,Data Warehouse Analyst,urban,0.02%,2
+1390,Netherlands,Data Warehouse Specialist,urban,0.02%,2
+1391,Netherlands,Data Warehousing Engineer,rural,0.01%,1
+1392,Netherlands,Data Warehousing Engineer,urban,0.05%,4
+1393,Netherlands,Data Warehousing Manager,urban,0.02%,2
+1394,Netherlands,Database Administration Associate,rural,0.01%,1
+1395,Netherlands,Database Administration Associate,urban,0.02%,2
+1396,Netherlands,Database Administration Manager,urban,0.01%,1
+1397,Netherlands,Database Administration Project Manager,rural,0.01%,1
+1398,Netherlands,Database Analyst,rural,0.01%,1
+1399,Netherlands,Database Architect,rural,0.01%,1
+1400,Netherlands,Database Consultant,rural,0.01%,1
+1401,Netherlands,Database Consultant,urban,0.02%,2
+1402,Netherlands,Database Coordinator,urban,0.05%,4
+1403,Netherlands,Database Design Analyst,urban,0.01%,1
+1404,Netherlands,Database Designer,urban,0.04%,3
+1405,Netherlands,Database Development and Administration Project Manager,urban,0.01%,1
+1406,Netherlands,Database Management System Specialist (DBMS Specialist),urban,0.02%,2
+1407,Netherlands,Database Manager,urban,0.02%,2
+1408,Netherlands,Database Marketing Analyst,rural,0.04%,3
+1409,Netherlands,Database Marketing Analyst,urban,0.02%,2
+1410,Netherlands,Database Modeler,rural,0.02%,2
+1411,Netherlands,Database Modeler,urban,0.01%,1
+1412,Netherlands,Database Security Administrator,rural,0.01%,1
+1413,Netherlands,Database Security Expert,urban,0.02%,2
+1414,Netherlands,Database Software Technician,urban,0.04%,3
+1415,Netherlands,Database Specialist,urban,0.02%,2
+1416,Netherlands,Database Tester,rural,0.01%,1
+1417,Netherlands,Database Tester,urban,0.01%,1
+1418,Netherlands,Director of Data Operations,rural,0.01%,1
+1419,Netherlands,Director of Data Operations,urban,0.02%,2
+1420,Netherlands,Electronic Data Processing Auditor (EDP Auditor),rural,0.01%,1
+1421,Netherlands,Electronic Data Processing Auditor (EDP Auditor),urban,0.05%,4
+1422,Netherlands,"Engineer, System Electronic Data Processing (Engineer, System EDP)",rural,0.02%,2
+1423,Netherlands,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.05%,4
+1424,Netherlands,Field Artillery Automated Tactical Data System Specialist,urban,0.02%,2
+1425,Netherlands,GPS Field Data Collector (Global Positioning System Field Data Collector),urban,0.01%,1
+1426,Netherlands,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.01%,1
+1427,Netherlands,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.01%,1
+1428,Netherlands,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.01%,1
+1429,Netherlands,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.01%,1
+1430,Netherlands,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.01%,1
+1431,Netherlands,Internet Database Specialist,rural,0.01%,1
+1432,Netherlands,Internet Database Specialist,urban,0.02%,2
+1433,Netherlands,LiDAR Data Analyst,urban,0.01%,1
+1434,Netherlands,Micro Computer Data Processor,urban,0.01%,1
+1435,Netherlands,Oracle Database Administrator (Oracle DBA),rural,0.04%,3
+1436,Netherlands,Reference Data Expert,urban,0.01%,1
+1437,Netherlands,SCADA Operator (Supervisory Control and Data Acquisition Operator),rural,0.01%,1
+1438,Netherlands,SCADA Technician (Supervisory Control and Data Acquisition Technician),urban,0.01%,1
+1439,Netherlands,SQL Database Administrator,urban,0.01%,1
+1440,Netherlands,Survey Data Technician,urban,0.01%,1
+1441,Netherlands,Unemployed,rural,0.67%,55
+1442,Netherlands,Unemployed,urban,1.36%,112
+1443,Netherlands,Weight in Motion Field Data Collection Technician,urban,0.01%,1
+1444,Poland,Analytical Data Miner,urban,0.04%,3
+1445,Poland,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.04%,3
+1446,Poland,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.13%,11
+1447,Poland,Automatic Data Processing Planner,rural,0.01%,1
+1448,Poland,Automatic Data Processing Planner,urban,0.06%,5
+1449,Poland,Automatic Data Processing Planner (ADP Planner),rural,0.04%,3
+1450,Poland,Automatic Data Processing Planner (ADP Planner),urban,0.04%,3
+1451,Poland,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.11%,9
+1452,Poland,Clinical Data Abstractor,urban,0.02%,2
+1453,Poland,Clinical Data Analyst,urban,0.04%,3
+1454,Poland,Clinical Data Associate,rural,0.01%,1
+1455,Poland,Clinical Data Coordinator,urban,0.01%,1
+1456,Poland,Clinical Data Management Associate Director,rural,0.01%,1
+1457,Poland,Clinical Data Management Manager (CDM Manager),urban,0.02%,2
+1458,Poland,Clinical Data Specialist,urban,0.01%,1
+1459,Poland,Computer or Data Processing Systems Consultant,urban,0.07%,6
+1460,Poland,Customer Data Technician,urban,0.02%,2
+1461,Poland,Data Acquisition Technician,urban,0.02%,2
+1462,Poland,Data Administrator,urban,0.09%,7
+1463,Poland,Data Architect,rural,0.01%,1
+1464,Poland,Data Architect,urban,0.11%,9
+1465,Poland,Data Base Design Analyst,urban,0.04%,3
+1466,Poland,Data Capture Clerk,urban,0.02%,2
+1467,Poland,Data Capture Specialist,urban,0.04%,3
+1468,Poland,Data Center Operator,urban,0.01%,1
+1469,Poland,Data Coder Operator,urban,0.01%,1
+1470,Poland,Data Collection Technician,urban,0.04%,3
+1471,Poland,Data Collector,urban,0.01%,1
+1472,Poland,Data Communications Analyst,rural,0.04%,3
+1473,Poland,Data Communications Analyst,urban,0.12%,10
+1474,Poland,Data Communications Software Consultant,rural,0.01%,1
+1475,Poland,Data Communications Software Consultant,urban,0.06%,5
+1476,Poland,Data Communications Technician,rural,0.01%,1
+1477,Poland,Data Communications Technician,urban,0.01%,1
+1478,Poland,Data Compiler,rural,0.02%,2
+1479,Poland,Data Control Assistant,urban,0.01%,1
+1480,Poland,Data Coordinator,rural,0.04%,3
+1481,Poland,Data Coordinator,urban,0.06%,5
+1482,Poland,Data Entry Associate,rural,0.01%,1
+1483,Poland,Data Entry Operator,urban,0.01%,1
+1484,Poland,Data Entry Representative,urban,0.01%,1
+1485,Poland,Data Entry Specialist,rural,0.01%,1
+1486,Poland,Data Entry Supervisor,urban,0.01%,1
+1487,Poland,Data Entry Technician,rural,0.01%,1
+1488,Poland,Data Entry Technician,urban,0.01%,1
+1489,Poland,Data Examination Clerk,urban,0.01%,1
+1490,Poland,Data Input Clerk,urban,0.01%,1
+1491,Poland,Data Management Associate,urban,0.06%,5
+1492,Poland,Data Management Information Technology Specialist,rural,0.02%,2
+1493,Poland,Data Management Information Technology Specialist,urban,0.06%,5
+1494,Poland,Data Management Manager,urban,0.01%,1
+1495,Poland,Data Miner,urban,0.09%,7
+1496,Poland,Data Modeling Specialist,urban,0.06%,5
+1497,Poland,Data Officer,urban,0.09%,7
+1498,Poland,Data Operations Director,rural,0.01%,1
+1499,Poland,Data Operations Director,urban,0.04%,3
+1500,Poland,Data Processing Auditor,rural,0.02%,2
+1501,Poland,Data Processing Auditor,urban,0.06%,5
+1502,Poland,Data Processing Clerk,urban,0.01%,1
+1503,Poland,Data Processing Consultant,urban,0.06%,5
+1504,Poland,Data Processing Control Clerk,urban,0.01%,1
+1505,Poland,Data Processing Equipment Repairer,urban,0.01%,1
+1506,Poland,Data Processing Manager,urban,0.09%,7
+1507,Poland,Data Processing Supervisor,urban,0.01%,1
+1508,Poland,Data Processing Systems Analyst,rural,0.01%,1
+1509,Poland,Data Processing Systems Analyst,urban,0.05%,4
+1510,Poland,Data Processing Systems Project Planner,urban,0.04%,3
+1511,Poland,Data Recovery Planner,rural,0.01%,1
+1512,Poland,Data Reduction Technician,urban,0.01%,1
+1513,Poland,Data Reviewer,rural,0.01%,1
+1514,Poland,Data Sciences Director,urban,0.02%,2
+1515,Poland,Data Scientist,rural,0.01%,1
+1516,Poland,Data Scientist,urban,0.01%,1
+1517,Poland,Data Security Administrator,urban,0.1%,8
+1518,Poland,Data Security Analyst,rural,0.01%,1
+1519,Poland,Data Security Analyst,urban,0.1%,8
+1520,Poland,Data Specialist,urban,0.02%,2
+1521,Poland,Data Storage Specialist,rural,0.02%,2
+1522,Poland,Data Storage Specialist,urban,0.13%,11
+1523,Poland,Data Systems Manager,rural,0.01%,1
+1524,Poland,Data Systems Manager,urban,0.06%,5
+1525,Poland,Data Technician,urban,0.01%,1
+1526,Poland,Data Transcriber,urban,0.01%,1
+1527,Poland,Data Typist,urban,0.01%,1
+1528,Poland,Data Warehouse Analyst,rural,0.01%,1
+1529,Poland,Data Warehouse Analyst,urban,0.09%,7
+1530,Poland,Data Warehouse Architect,urban,0.05%,4
+1531,Poland,Data Warehouse Developer,rural,0.01%,1
+1532,Poland,Data Warehouse Developer,urban,0.12%,10
+1533,Poland,Data Warehouse Specialist,urban,0.11%,9
+1534,Poland,Data Warehousing Engineer,urban,0.04%,3
+1535,Poland,Data Warehousing Manager,urban,0.06%,5
+1536,Poland,Data Warehousing Specialist,rural,0.01%,1
+1537,Poland,Data Warehousing Specialist,urban,0.05%,4
+1538,Poland,Database Administration Associate,urban,0.05%,4
+1539,Poland,Database Administration Manager,urban,0.07%,6
+1540,Poland,Database Administration Project Manager,urban,0.01%,1
+1541,Poland,Database Administrator (DBA),rural,0.01%,1
+1542,Poland,Database Administrator (DBA),urban,0.01%,1
+1543,Poland,Database Analyst,urban,0.02%,2
+1544,Poland,Database Architect,rural,0.01%,1
+1545,Poland,Database Architect,urban,0.04%,3
+1546,Poland,Database Consultant,rural,0.02%,2
+1547,Poland,Database Consultant,urban,0.05%,4
+1548,Poland,Database Coordinator,rural,0.01%,1
+1549,Poland,Database Coordinator,urban,0.06%,5
+1550,Poland,Database Design Analyst,rural,0.01%,1
+1551,Poland,Database Design Analyst,urban,0.11%,9
+1552,Poland,Database Designer,rural,0.01%,1
+1553,Poland,Database Designer,urban,0.05%,4
+1554,Poland,Database Developer,urban,0.02%,2
+1555,Poland,Database Development and Administration Project Manager,rural,0.02%,2
+1556,Poland,Database Development and Administration Project Manager,urban,0.12%,10
+1557,Poland,Database Engineer,urban,0.06%,5
+1558,Poland,Database Management System Specialist (DBMS Specialist),urban,0.07%,6
+1559,Poland,Database Manager,rural,0.01%,1
+1560,Poland,Database Manager,urban,0.06%,5
+1561,Poland,Database Marketing Analyst,urban,0.06%,5
+1562,Poland,Database Modeler,rural,0.02%,2
+1563,Poland,Database Modeler,urban,0.02%,2
+1564,Poland,Database Programmer,urban,0.02%,2
+1565,Poland,Database Security Administrator,rural,0.01%,1
+1566,Poland,Database Security Administrator,urban,0.12%,10
+1567,Poland,Database Security Expert,urban,0.11%,9
+1568,Poland,Database Software Technician,rural,0.01%,1
+1569,Poland,Database Software Technician,urban,0.07%,6
+1570,Poland,Database Specialist,urban,0.06%,5
+1571,Poland,Database Technician,urban,0.01%,1
+1572,Poland,Database Tester,rural,0.02%,2
+1573,Poland,Database Tester,urban,0.05%,4
+1574,Poland,Databases Computer Consultant,rural,0.01%,1
+1575,Poland,Databases Computer Consultant,urban,0.04%,3
+1576,Poland,Databases Software Consultant,rural,0.02%,2
+1577,Poland,Databases Software Consultant,urban,0.04%,3
+1578,Poland,Datastage Developer,urban,0.02%,2
+1579,Poland,Director of Data Operations,rural,0.02%,2
+1580,Poland,Director of Data Operations,urban,0.11%,9
+1581,Poland,Electronic Data Interchange System Developer (EDI System Developer),urban,0.06%,5
+1582,Poland,Electronic Data Processing Auditor (EDP Auditor),rural,0.01%,1
+1583,Poland,Electronic Data Processing Auditor (EDP Auditor),urban,0.06%,5
+1584,Poland,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.02%,2
+1585,Poland,Field Artillery Automated Tactical Data System Specialist,rural,0.01%,1
+1586,Poland,Field Artillery Automated Tactical Data System Specialist,urban,0.01%,1
+1587,Poland,Field Traffic Data Technician,rural,0.01%,1
+1588,Poland,Flight Data Technician,rural,0.01%,1
+1589,Poland,Flight Data Technician,urban,0.02%,2
+1590,Poland,Flight Test Data Acquisition Technician,urban,0.02%,2
+1591,Poland,Geographic Information Systems Data Administrator (GIS Data Administrator),rural,0.01%,1
+1592,Poland,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.05%,4
+1593,Poland,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.04%,3
+1594,Poland,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.04%,3
+1595,Poland,Geographic Information Systems Data Specialist (GIS Data Specialist),rural,0.01%,1
+1596,Poland,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.13%,11
+1597,Poland,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.04%,3
+1598,Poland,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.11%,9
+1599,Poland,Head of Information Systems and Data Processing,urban,0.02%,2
+1600,Poland,Internet Database Specialist,rural,0.01%,1
+1601,Poland,Internet Database Specialist,urban,0.01%,1
+1602,Poland,LiDAR Data Analyst,urban,0.04%,3
+1603,Poland,Log Data Technician,urban,0.01%,1
+1604,Poland,Marketing Database Analyst,urban,0.02%,2
+1605,Poland,Medical Data Analyst,rural,0.01%,1
+1606,Poland,Naval Tactical Data System--Combat Information Center Officer,urban,0.01%,1
+1607,Poland,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",urban,0.02%,2
+1608,Poland,"Naval Tactical Data System--Combat Information Center Watch Officer, General",urban,0.04%,3
+1609,Poland,Oracle Database Administrator (Oracle DBA),rural,0.01%,1
+1610,Poland,Oracle Database Administrator (Oracle DBA),urban,0.07%,6
+1611,Poland,Reference Data Expert,urban,0.01%,1
+1612,Poland,SCADA Operator (Supervisory Control and Data Acquisition Operator),urban,0.01%,1
+1613,Poland,SQL Database Administrator,urban,0.12%,10
+1614,Poland,Scientific Database Curator,urban,0.01%,1
+1615,Poland,Survey Data Technician,urban,0.01%,1
+1616,Poland,Unemployed,rural,1.05%,86
+1617,Poland,Unemployed,urban,2.89%,238
+1618,Poland,Voice and Data Technician,rural,0.01%,1
+1619,Poland,Weight in Motion Field Data Collection Technician,urban,0.01%,1
+1620,Portugal,Analytical Data Miner,urban,0.01%,1
+1621,Portugal,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.04%,3
+1622,Portugal,Automatic Data Processing Planner,urban,0.01%,1
+1623,Portugal,Automatic Data Processing Planner (ADP Planner),urban,0.01%,1
+1624,Portugal,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.01%,1
+1625,Portugal,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.05%,4
+1626,Portugal,Clinical Data Coordinator,urban,0.01%,1
+1627,Portugal,Clinical Data Management Associate Director,urban,0.01%,1
+1628,Portugal,Clinical Data Manager,urban,0.01%,1
+1629,Portugal,Clinical Data Specialist,urban,0.01%,1
+1630,Portugal,Computer or Data Processing Systems Consultant,rural,0.01%,1
+1631,Portugal,Computer or Data Processing Systems Consultant,urban,0.02%,2
+1632,Portugal,Data Administrator,rural,0.01%,1
+1633,Portugal,Data Administrator,urban,0.05%,4
+1634,Portugal,Data Architect,rural,0.01%,1
+1635,Portugal,Data Architect,urban,0.01%,1
+1636,Portugal,Data Base Design Analyst,rural,0.02%,2
+1637,Portugal,Data Capture Clerk,urban,0.02%,2
+1638,Portugal,Data Center Operator,urban,0.01%,1
+1639,Portugal,Data Collector,urban,0.01%,1
+1640,Portugal,Data Communications Analyst,urban,0.02%,2
+1641,Portugal,Data Communications Software Consultant,urban,0.06%,5
+1642,Portugal,Data Communications Technician,urban,0.01%,1
+1643,Portugal,Data Conversion Operator,urban,0.01%,1
+1644,Portugal,Data Coordinator,rural,0.01%,1
+1645,Portugal,Data Coordinator,urban,0.06%,5
+1646,Portugal,Data Entry Machine Operator,urban,0.01%,1
+1647,Portugal,Data Management Associate,urban,0.04%,3
+1648,Portugal,Data Management Information Technology Specialist,urban,0.01%,1
+1649,Portugal,Data Management Manager,urban,0.01%,1
+1650,Portugal,Data Manager,rural,0.01%,1
+1651,Portugal,Data Miner,urban,0.01%,1
+1652,Portugal,Data Modeling Specialist,urban,0.01%,1
+1653,Portugal,Data Officer,urban,0.04%,3
+1654,Portugal,Data Processing Clerk,rural,0.01%,1
+1655,Portugal,Data Processing Consultant,urban,0.06%,5
+1656,Portugal,Data Processing Control Clerk,urban,0.01%,1
+1657,Portugal,Data Processing Equipment Repairer,rural,0.01%,1
+1658,Portugal,Data Processing Manager,rural,0.04%,3
+1659,Portugal,Data Processing Manager,urban,0.01%,1
+1660,Portugal,Data Processing Services Sales Representative,urban,0.01%,1
+1661,Portugal,Data Processing Systems Project Planner,urban,0.02%,2
+1662,Portugal,Data Processor,urban,0.01%,1
+1663,Portugal,Data Recovery Planner,urban,0.04%,3
+1664,Portugal,Data Reduction Technician,urban,0.01%,1
+1665,Portugal,Data Scientist,rural,0.02%,2
+1666,Portugal,Data Scientist,urban,0.02%,2
+1667,Portugal,Data Security Analyst,urban,0.05%,4
+1668,Portugal,Data Storage Specialist,rural,0.01%,1
+1669,Portugal,Data Storage Specialist,urban,0.01%,1
+1670,Portugal,Data Warehouse Analyst,urban,0.02%,2
+1671,Portugal,Data Warehouse Architect,rural,0.01%,1
+1672,Portugal,Data Warehouse Architect,urban,0.01%,1
+1673,Portugal,Data Warehouse Specialist,urban,0.01%,1
+1674,Portugal,Data Warehousing Engineer,rural,0.01%,1
+1675,Portugal,Data Warehousing Manager,urban,0.01%,1
+1676,Portugal,Database Administration Associate,urban,0.02%,2
+1677,Portugal,Database Administration Manager,rural,0.01%,1
+1678,Portugal,Database Architect,urban,0.04%,3
+1679,Portugal,Database Consultant,urban,0.02%,2
+1680,Portugal,Database Coordinator,rural,0.01%,1
+1681,Portugal,Database Coordinator,urban,0.01%,1
+1682,Portugal,Database Development and Administration Project Manager,urban,0.01%,1
+1683,Portugal,Database Engineer,urban,0.02%,2
+1684,Portugal,Database Management System Specialist (DBMS Specialist),urban,0.01%,1
+1685,Portugal,Database Manager,rural,0.01%,1
+1686,Portugal,Database Manager,urban,0.02%,2
+1687,Portugal,Database Marketing Analyst,urban,0.01%,1
+1688,Portugal,Database Software Technician,rural,0.01%,1
+1689,Portugal,Database Software Technician,urban,0.01%,1
+1690,Portugal,Database Specialist,urban,0.04%,3
+1691,Portugal,Databases Computer Consultant,urban,0.01%,1
+1692,Portugal,Databases Software Consultant,urban,0.04%,3
+1693,Portugal,Electronic Data Interchange System Developer (EDI System Developer),rural,0.01%,1
+1694,Portugal,Electronic Data Interchange System Developer (EDI System Developer),urban,0.02%,2
+1695,Portugal,Electronic Data Processing Auditor (EDP Auditor),urban,0.04%,3
+1696,Portugal,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.01%,1
+1697,Portugal,Field Traffic Data Technician,urban,0.01%,1
+1698,Portugal,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.04%,3
+1699,Portugal,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.01%,1
+1700,Portugal,Geographic Information Systems Data Specialist (GIS Data Specialist),rural,0.01%,1
+1701,Portugal,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.01%,1
+1702,Portugal,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.01%,1
+1703,Portugal,Internet Database Specialist,urban,0.01%,1
+1704,Portugal,LiDAR Data Analyst,rural,0.01%,1
+1705,Portugal,Log Data Technician,urban,0.01%,1
+1706,Portugal,Micro Computer Data Processor,urban,0.01%,1
+1707,Portugal,Oracle Database Administrator (Oracle DBA),urban,0.01%,1
+1708,Portugal,SQL Database Administrator,urban,0.02%,2
+1709,Portugal,Unemployed,rural,0.21%,17
+1710,Portugal,Unemployed,urban,0.5%,41
+1711,Romania,Analytical Data Miner,urban,0.01%,1
+1712,Romania,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.02%,2
+1713,Romania,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.04%,3
+1714,Romania,Automatic Data Processing Planner,urban,0.04%,3
+1715,Romania,Automatic Data Processing Planner (ADP Planner),urban,0.04%,3
+1716,Romania,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.01%,1
+1717,Romania,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.02%,2
+1718,Romania,Business Database Analyst,urban,0.02%,2
+1719,Romania,Clinical Data Analyst,urban,0.01%,1
+1720,Romania,Clinical Data Associate,urban,0.02%,2
+1721,Romania,Clinical Data Manager,urban,0.02%,2
+1722,Romania,Computer or Data Processing Systems Consultant,rural,0.02%,2
+1723,Romania,Computer or Data Processing Systems Consultant,urban,0.05%,4
+1724,Romania,Crime Data Specialist,rural,0.01%,1
+1725,Romania,Customer Data Technician,urban,0.01%,1
+1726,Romania,Data Abstractor,rural,0.01%,1
+1727,Romania,Data Administrator,urban,0.06%,5
+1728,Romania,Data Analysis Assistant,urban,0.02%,2
+1729,Romania,Data Architect,rural,0.01%,1
+1730,Romania,Data Architect,urban,0.05%,4
+1731,Romania,Data Base Design Analyst,urban,0.02%,2
+1732,Romania,Data Center Operator,urban,0.02%,2
+1733,Romania,Data Coder Operator,urban,0.01%,1
+1734,Romania,Data Collection Technician,urban,0.02%,2
+1735,Romania,Data Communications Analyst,urban,0.01%,1
+1736,Romania,Data Communications Software Consultant,urban,0.01%,1
+1737,Romania,Data Compiler,urban,0.01%,1
+1738,Romania,Data Coordinator,urban,0.04%,3
+1739,Romania,Data Entry Clerk,rural,0.01%,1
+1740,Romania,Data Entry Operator,urban,0.01%,1
+1741,Romania,Data Entry Representative,urban,0.01%,1
+1742,Romania,Data Entry Specialist,urban,0.01%,1
+1743,Romania,Data Entry Supervisor,rural,0.01%,1
+1744,Romania,Data Entry Technician,rural,0.01%,1
+1745,Romania,Data Entry Technician,urban,0.01%,1
+1746,Romania,Data Input Clerk,rural,0.01%,1
+1747,Romania,Data Input Clerk,urban,0.01%,1
+1748,Romania,Data Management Associate,urban,0.09%,7
+1749,Romania,Data Management Information Technology Specialist,urban,0.02%,2
+1750,Romania,Data Management Manager,urban,0.01%,1
+1751,Romania,Data Miner,urban,0.04%,3
+1752,Romania,Data Modeler,rural,0.01%,1
+1753,Romania,Data Modeler,urban,0.01%,1
+1754,Romania,Data Modeling Specialist,rural,0.01%,1
+1755,Romania,Data Modeling Specialist,urban,0.01%,1
+1756,Romania,Data Officer,rural,0.01%,1
+1757,Romania,Data Officer,urban,0.07%,6
+1758,Romania,Data Processing Auditor,rural,0.02%,2
+1759,Romania,Data Processing Auditor,urban,0.01%,1
+1760,Romania,Data Processing Consultant,urban,0.02%,2
+1761,Romania,Data Processing Manager,rural,0.01%,1
+1762,Romania,Data Processing Systems Analyst,urban,0.01%,1
+1763,Romania,Data Processing Systems Project Planner,rural,0.01%,1
+1764,Romania,Data Processing Systems Project Planner,urban,0.07%,6
+1765,Romania,Data Processor,rural,0.01%,1
+1766,Romania,Data Processor,urban,0.01%,1
+1767,Romania,Data Sciences Director,urban,0.01%,1
+1768,Romania,Data Security Administrator,urban,0.04%,3
+1769,Romania,Data Security Analyst,rural,0.01%,1
+1770,Romania,Data Security Analyst,urban,0.05%,4
+1771,Romania,Data Storage Specialist,rural,0.01%,1
+1772,Romania,Data Storage Specialist,urban,0.05%,4
+1773,Romania,Data Systems Manager,rural,0.01%,1
+1774,Romania,Data Systems Manager,urban,0.01%,1
+1775,Romania,Data Warehouse Analyst,rural,0.01%,1
+1776,Romania,Data Warehouse Analyst,urban,0.01%,1
+1777,Romania,Data Warehouse Architect,urban,0.02%,2
+1778,Romania,Data Warehouse Developer,urban,0.02%,2
+1779,Romania,Data Warehouse Specialist,rural,0.01%,1
+1780,Romania,Data Warehouse Specialist,urban,0.01%,1
+1781,Romania,Data Warehousing Engineer,urban,0.05%,4
+1782,Romania,Data Warehousing Manager,urban,0.04%,3
+1783,Romania,Data Warehousing Specialist,rural,0.01%,1
+1784,Romania,Data Warehousing Specialist,urban,0.02%,2
+1785,Romania,Database Administration Associate,rural,0.01%,1
+1786,Romania,Database Administration Associate,urban,0.02%,2
+1787,Romania,Database Administration Manager,urban,0.02%,2
+1788,Romania,Database Analyst,urban,0.04%,3
+1789,Romania,Database Architect,urban,0.05%,4
+1790,Romania,Database Consultant,urban,0.09%,7
+1791,Romania,Database Design Analyst,rural,0.01%,1
+1792,Romania,Database Design Analyst,urban,0.01%,1
+1793,Romania,Database Designer,rural,0.01%,1
+1794,Romania,Database Designer,urban,0.02%,2
+1795,Romania,Database Development and Administration Project Manager,urban,0.02%,2
+1796,Romania,Database Engineer,rural,0.01%,1
+1797,Romania,Database Engineer,urban,0.02%,2
+1798,Romania,Database Management System Specialist (DBMS Specialist),urban,0.05%,4
+1799,Romania,Database Manager,rural,0.01%,1
+1800,Romania,Database Manager,urban,0.01%,1
+1801,Romania,Database Modeler,rural,0.01%,1
+1802,Romania,Database Programmer,urban,0.02%,2
+1803,Romania,Database Security Administrator,urban,0.02%,2
+1804,Romania,Database Security Expert,urban,0.01%,1
+1805,Romania,Database Software Technician,urban,0.01%,1
+1806,Romania,Database Specialist,urban,0.06%,5
+1807,Romania,Database Technician,urban,0.01%,1
+1808,Romania,Database Tester,urban,0.07%,6
+1809,Romania,Databases Computer Consultant,urban,0.05%,4
+1810,Romania,Databases Software Consultant,rural,0.01%,1
+1811,Romania,Databases Software Consultant,urban,0.02%,2
+1812,Romania,Director of Data Operations,urban,0.05%,4
+1813,Romania,Electronic Data Interchange System Developer (EDI System Developer),urban,0.02%,2
+1814,Romania,Electronic Data Processing Auditor (EDP Auditor),urban,0.05%,4
+1815,Romania,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.04%,3
+1816,Romania,Field Artillery Automated Tactical Data System Specialist,rural,0.01%,1
+1817,Romania,Field Artillery Automated Tactical Data System Specialist,urban,0.01%,1
+1818,Romania,Field Traffic Data Technician,urban,0.02%,2
+1819,Romania,GPS Field Data Collector (Global Positioning System Field Data Collector),urban,0.01%,1
+1820,Romania,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.02%,2
+1821,Romania,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.02%,2
+1822,Romania,Geographic Information Systems Data Specialist (GIS Data Specialist),rural,0.01%,1
+1823,Romania,Head of Information Systems and Data Processing,rural,0.02%,2
+1824,Romania,Head of Information Systems and Data Processing,urban,0.05%,4
+1825,Romania,Health Data Analyst,urban,0.01%,1
+1826,Romania,Internet Database Specialist,urban,0.01%,1
+1827,Romania,Marketing Database Analyst,urban,0.01%,1
+1828,Romania,Medical Data Analyst,urban,0.01%,1
+1829,Romania,Micro Computer Data Processor,urban,0.01%,1
+1830,Romania,Naval Tactical Data System--Combat Information Center Officer,urban,0.01%,1
+1831,Romania,Oracle Database Administrator (Oracle DBA),urban,0.02%,2
+1832,Romania,Reference Data Expert,urban,0.02%,2
+1833,Romania,SCADA Operator (Supervisory Control and Data Acquisition Operator),urban,0.01%,1
+1834,Romania,SCADA Technician (Supervisory Control and Data Acquisition Technician),urban,0.01%,1
+1835,Romania,SQL Database Administrator,rural,0.01%,1
+1836,Romania,SQL Database Administrator,urban,0.04%,3
+1837,Romania,Unemployed,rural,0.13%,11
+1838,Romania,Unemployed,urban,0.91%,75
+1839,Romania,Voice and Data Technician,urban,0.01%,1
+1840,Slovakia,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.01%,1
+1841,Slovakia,Automatic Data Processing Planner,rural,0.01%,1
+1842,Slovakia,Automatic Data Processing Planner,urban,0.01%,1
+1843,Slovakia,Automatic Data Processing Planner (ADP Planner),urban,0.01%,1
+1844,Slovakia,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.05%,4
+1845,Slovakia,Computer or Data Processing Systems Consultant,rural,0.01%,1
+1846,Slovakia,Computer or Data Processing Systems Consultant,urban,0.01%,1
+1847,Slovakia,Data Acquisition Technician,rural,0.01%,1
+1848,Slovakia,Data Administrator,urban,0.02%,2
+1849,Slovakia,Data Base Design Analyst,urban,0.01%,1
+1850,Slovakia,Data Capture Specialist,urban,0.01%,1
+1851,Slovakia,Data Communications Analyst,urban,0.01%,1
+1852,Slovakia,Data Conversion Operator,urban,0.01%,1
+1853,Slovakia,Data Management Associate,urban,0.02%,2
+1854,Slovakia,Data Management Information Technology Specialist,rural,0.01%,1
+1855,Slovakia,Data Officer,urban,0.02%,2
+1856,Slovakia,Data Operations Director,urban,0.01%,1
+1857,Slovakia,Data Processing Auditor,urban,0.04%,3
+1858,Slovakia,Data Processing Consultant,rural,0.01%,1
+1859,Slovakia,Data Processing Manager,urban,0.01%,1
+1860,Slovakia,Data Processing Systems Analyst,rural,0.01%,1
+1861,Slovakia,Data Processing Systems Project Planner,rural,0.02%,2
+1862,Slovakia,Data Reviewer,urban,0.01%,1
+1863,Slovakia,Data Scientist,urban,0.04%,3
+1864,Slovakia,Data Security Analyst,rural,0.04%,3
+1865,Slovakia,Data Systems Manager,urban,0.01%,1
+1866,Slovakia,Data Transcriber,urban,0.01%,1
+1867,Slovakia,Data Warehouse Analyst,urban,0.01%,1
+1868,Slovakia,Data Warehouse Developer,urban,0.01%,1
+1869,Slovakia,Data Warehouse Specialist,urban,0.01%,1
+1870,Slovakia,Data Warehousing Engineer,rural,0.01%,1
+1871,Slovakia,Data Warehousing Manager,rural,0.01%,1
+1872,Slovakia,Data Warehousing Specialist,urban,0.01%,1
+1873,Slovakia,Database Consultant,rural,0.01%,1
+1874,Slovakia,Database Engineer,urban,0.01%,1
+1875,Slovakia,Database Management System Specialist (DBMS Specialist),rural,0.01%,1
+1876,Slovakia,Database Management System Specialist (DBMS Specialist),urban,0.01%,1
+1877,Slovakia,Database Manager,urban,0.04%,3
+1878,Slovakia,Database Security Administrator,rural,0.01%,1
+1879,Slovakia,Database Specialist,urban,0.01%,1
+1880,Slovakia,Database Tester,rural,0.01%,1
+1881,Slovakia,Databases Computer Consultant,urban,0.01%,1
+1882,Slovakia,Databases Software Consultant,urban,0.01%,1
+1883,Slovakia,Flight Data Technician,urban,0.01%,1
+1884,Slovakia,Geographic Information Systems Data Administrator (GIS Data Administrator),rural,0.01%,1
+1885,Slovakia,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.02%,2
+1886,Slovakia,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.01%,1
+1887,Slovakia,Internet Database Specialist,rural,0.01%,1
+1888,Slovakia,Unemployed,rural,0.09%,7
+1889,Slovakia,Unemployed,urban,0.27%,22
+1890,Slovenia,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.01%,1
+1891,Slovenia,Automatic Data Processing Planner,urban,0.01%,1
+1892,Slovenia,Clinical Data Associate,rural,0.01%,1
+1893,Slovenia,Data Center Operator,rural,0.01%,1
+1894,Slovenia,Data Communications Software Consultant,rural,0.01%,1
+1895,Slovenia,Data Management Information Technology Specialist,rural,0.01%,1
+1896,Slovenia,Data Processing Auditor,urban,0.01%,1
+1897,Slovenia,Data Processing Systems Analyst,rural,0.01%,1
+1898,Slovenia,Data Security Administrator,urban,0.01%,1
+1899,Slovenia,Data Systems Manager,urban,0.01%,1
+1900,Slovenia,Data Warehouse Architect,rural,0.01%,1
+1901,Slovenia,Data Warehousing Manager,rural,0.01%,1
+1902,Slovenia,Database Administration Manager,rural,0.01%,1
+1903,Slovenia,Database Developer,rural,0.01%,1
+1904,Slovenia,Database Modeler,urban,0.01%,1
+1905,Slovenia,Databases Computer Consultant,urban,0.01%,1
+1906,Slovenia,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.01%,1
+1907,Slovenia,Unemployed,rural,0.06%,5
+1908,Slovenia,Unemployed,urban,0.07%,6
+1909,Spain,Analytical Data Miner,urban,0.01%,1
+1910,Spain,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.02%,2
+1911,Spain,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.11%,9
+1912,Spain,Automatic Data Processing Planner,rural,0.01%,1
+1913,Spain,Automatic Data Processing Planner,urban,0.1%,8
+1914,Spain,Automatic Data Processing Planner (ADP Planner),urban,0.13%,11
+1915,Spain,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.02%,2
+1916,Spain,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.06%,5
+1917,Spain,Business Database Analyst,urban,0.02%,2
+1918,Spain,Clinical Data Abstractor,urban,0.01%,1
+1919,Spain,Clinical Data Associate,urban,0.02%,2
+1920,Spain,Clinical Data Management Manager (CDM Manager),rural,0.01%,1
+1921,Spain,Clinical Data Management Manager (CDM Manager),urban,0.02%,2
+1922,Spain,Clinical Data Manager,urban,0.02%,2
+1923,Spain,Clinical Data Specialist,urban,0.01%,1
+1924,Spain,Computer or Data Processing Systems Consultant,rural,0.01%,1
+1925,Spain,Computer or Data Processing Systems Consultant,urban,0.1%,8
+1926,Spain,Crime Data Specialist,urban,0.01%,1
+1927,Spain,Data Administrator,urban,0.02%,2
+1928,Spain,Data Analysis Assistant,urban,0.01%,1
+1929,Spain,Data Analyst,urban,0.01%,1
+1930,Spain,Data Architect,rural,0.01%,1
+1931,Spain,Data Architect,urban,0.09%,7
+1932,Spain,Data Base Design Analyst,urban,0.07%,6
+1933,Spain,Data Collector,rural,0.01%,1
+1934,Spain,Data Communications Analyst,urban,0.06%,5
+1935,Spain,Data Communications Software Consultant,rural,0.01%,1
+1936,Spain,Data Communications Software Consultant,urban,0.11%,9
+1937,Spain,Data Communications Technician,urban,0.02%,2
+1938,Spain,Data Compiler,rural,0.01%,1
+1939,Spain,Data Compiler,urban,0.04%,3
+1940,Spain,Data Control Clerk Supervisor,urban,0.01%,1
+1941,Spain,Data Conversion Operator,urban,0.01%,1
+1942,Spain,Data Coordinator,rural,0.01%,1
+1943,Spain,Data Coordinator,urban,0.11%,9
+1944,Spain,Data Entry Associate,rural,0.01%,1
+1945,Spain,Data Entry Machine Operator,rural,0.02%,2
+1946,Spain,Data Entry Machine Operator,urban,0.01%,1
+1947,Spain,Data Entry Operator,urban,0.01%,1
+1948,Spain,Data Entry Representative,urban,0.01%,1
+1949,Spain,Data Entry Specialist,rural,0.01%,1
+1950,Spain,Data Entry Supervisor,urban,0.01%,1
+1951,Spain,Data Examination Clerk,urban,0.01%,1
+1952,Spain,Data Input Clerk,urban,0.01%,1
+1953,Spain,Data Keyer,urban,0.01%,1
+1954,Spain,Data Management Associate,rural,0.01%,1
+1955,Spain,Data Management Associate,urban,0.11%,9
+1956,Spain,Data Management Information Technology Specialist,urban,0.06%,5
+1957,Spain,Data Management Manager,urban,0.01%,1
+1958,Spain,Data Miner,rural,0.02%,2
+1959,Spain,Data Miner,urban,0.04%,3
+1960,Spain,Data Modeler,urban,0.01%,1
+1961,Spain,Data Modeling Specialist,rural,0.02%,2
+1962,Spain,Data Modeling Specialist,urban,0.09%,7
+1963,Spain,Data Officer,urban,0.02%,2
+1964,Spain,Data Operations Director,urban,0.05%,4
+1965,Spain,Data Processing Auditor,rural,0.01%,1
+1966,Spain,Data Processing Auditor,urban,0.04%,3
+1967,Spain,Data Processing Auxiliary Equipment Operator,urban,0.02%,2
+1968,Spain,Data Processing Clerk,rural,0.01%,1
+1969,Spain,Data Processing Clerk,urban,0.02%,2
+1970,Spain,Data Processing Consultant,rural,0.01%,1
+1971,Spain,Data Processing Consultant,urban,0.06%,5
+1972,Spain,Data Processing Equipment Repairer,rural,0.01%,1
+1973,Spain,Data Processing Equipment Repairer,urban,0.04%,3
+1974,Spain,Data Processing Manager,urban,0.1%,8
+1975,Spain,Data Processing Mechanic,urban,0.01%,1
+1976,Spain,Data Processing Supervisor,urban,0.02%,2
+1977,Spain,Data Processing Systems Analyst,rural,0.01%,1
+1978,Spain,Data Processing Systems Analyst,urban,0.11%,9
+1979,Spain,Data Processing Systems Project Planner,rural,0.01%,1
+1980,Spain,Data Processing Systems Project Planner,urban,0.09%,7
+1981,Spain,Data Recovery Planner,rural,0.01%,1
+1982,Spain,Data Recovery Planner,urban,0.01%,1
+1983,Spain,Data Reduction Technician,urban,0.05%,4
+1984,Spain,Data Reviewer,urban,0.01%,1
+1985,Spain,Data Sciences Director,rural,0.01%,1
+1986,Spain,Data Sciences Director,urban,0.05%,4
+1987,Spain,Data Scientist,urban,0.09%,7
+1988,Spain,Data Security Administrator,rural,0.02%,2
+1989,Spain,Data Security Administrator,urban,0.11%,9
+1990,Spain,Data Security Analyst,rural,0.02%,2
+1991,Spain,Data Security Analyst,urban,0.1%,8
+1992,Spain,Data Storage Specialist,rural,0.01%,1
+1993,Spain,Data Storage Specialist,urban,0.05%,4
+1994,Spain,Data Systems Manager,rural,0.01%,1
+1995,Spain,Data Systems Manager,urban,0.12%,10
+1996,Spain,Data Technician,urban,0.02%,2
+1997,Spain,Data Transcriber,urban,0.02%,2
+1998,Spain,Data Typist,urban,0.01%,1
+1999,Spain,Data Warehouse Analyst,rural,0.01%,1
+2000,Spain,Data Warehouse Analyst,urban,0.09%,7
+2001,Spain,Data Warehouse Architect,rural,0.01%,1
+2002,Spain,Data Warehouse Architect,urban,0.1%,8
+2003,Spain,Data Warehouse Developer,urban,0.02%,2
+2004,Spain,Data Warehouse Specialist,rural,0.02%,2
+2005,Spain,Data Warehouse Specialist,urban,0.09%,7
+2006,Spain,Data Warehousing Engineer,rural,0.01%,1
+2007,Spain,Data Warehousing Engineer,urban,0.05%,4
+2008,Spain,Data Warehousing Manager,urban,0.06%,5
+2009,Spain,Data Warehousing Specialist,urban,0.04%,3
+2010,Spain,Database Administration Associate,urban,0.09%,7
+2011,Spain,Database Administration Manager,rural,0.04%,3
+2012,Spain,Database Administration Manager,urban,0.06%,5
+2013,Spain,Database Administration Project Manager,urban,0.02%,2
+2014,Spain,Database Architect,rural,0.01%,1
+2015,Spain,Database Architect,urban,0.09%,7
+2016,Spain,Database Consultant,urban,0.04%,3
+2017,Spain,Database Coordinator,rural,0.04%,3
+2018,Spain,Database Coordinator,urban,0.11%,9
+2019,Spain,Database Design Analyst,urban,0.05%,4
+2020,Spain,Database Designer,rural,0.04%,3
+2021,Spain,Database Designer,urban,0.02%,2
+2022,Spain,Database Developer,urban,0.01%,1
+2023,Spain,Database Development Project Manager,rural,0.01%,1
+2024,Spain,Database Development Project Manager,urban,0.01%,1
+2025,Spain,Database Development and Administration Project Manager,rural,0.02%,2
+2026,Spain,Database Development and Administration Project Manager,urban,0.13%,11
+2027,Spain,Database Engineer,rural,0.01%,1
+2028,Spain,Database Engineer,urban,0.12%,10
+2029,Spain,Database Management System Specialist (DBMS Specialist),rural,0.04%,3
+2030,Spain,Database Management System Specialist (DBMS Specialist),urban,0.12%,10
+2031,Spain,Database Manager,rural,0.01%,1
+2032,Spain,Database Manager,urban,0.1%,8
+2033,Spain,Database Marketing Analyst,rural,0.02%,2
+2034,Spain,Database Marketing Analyst,urban,0.05%,4
+2035,Spain,Database Modeler,rural,0.01%,1
+2036,Spain,Database Modeler,urban,0.01%,1
+2037,Spain,Database Security Administrator,rural,0.01%,1
+2038,Spain,Database Security Administrator,urban,0.09%,7
+2039,Spain,Database Security Expert,rural,0.02%,2
+2040,Spain,Database Security Expert,urban,0.07%,6
+2041,Spain,Database Software Technician,rural,0.02%,2
+2042,Spain,Database Software Technician,urban,0.07%,6
+2043,Spain,Database Specialist,rural,0.01%,1
+2044,Spain,Database Specialist,urban,0.05%,4
+2045,Spain,Database Technician,urban,0.01%,1
+2046,Spain,Database Tester,rural,0.01%,1
+2047,Spain,Database Tester,urban,0.02%,2
+2048,Spain,Databases Computer Consultant,rural,0.01%,1
+2049,Spain,Databases Computer Consultant,urban,0.05%,4
+2050,Spain,Databases Software Consultant,urban,0.09%,7
+2051,Spain,Datastage Developer,urban,0.01%,1
+2052,Spain,Director of Data Operations,urban,0.1%,8
+2053,Spain,Electronic Data Interchange System Developer (EDI System Developer),urban,0.11%,9
+2054,Spain,Electronic Data Processing Auditor (EDP Auditor),urban,0.07%,6
+2055,Spain,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.06%,5
+2056,Spain,Field Artillery Automated Tactical Data System Specialist,urban,0.02%,2
+2057,Spain,Field Traffic Data Technician,urban,0.01%,1
+2058,Spain,Flight Data Technician,urban,0.01%,1
+2059,Spain,Flight Test Data Acquisition Technician,urban,0.04%,3
+2060,Spain,Geographic Information Systems Data Administrator (GIS Data Administrator),rural,0.01%,1
+2061,Spain,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.1%,8
+2062,Spain,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.04%,3
+2063,Spain,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.09%,7
+2064,Spain,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.06%,5
+2065,Spain,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.01%,1
+2066,Spain,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.09%,7
+2067,Spain,Head of Information Systems and Data Processing,rural,0.02%,2
+2068,Spain,Head of Information Systems and Data Processing,urban,0.07%,6
+2069,Spain,Health Data Analyst,urban,0.02%,2
+2070,Spain,Internet Database Specialist,rural,0.02%,2
+2071,Spain,Internet Database Specialist,urban,0.01%,1
+2072,Spain,LiDAR Data Analyst,urban,0.02%,2
+2073,Spain,Maintenance Data Analyst,urban,0.01%,1
+2074,Spain,Marketing Database Analyst,rural,0.01%,1
+2075,Spain,Medical Data Analyst,urban,0.01%,1
+2076,Spain,Micro Computer Data Processor,rural,0.01%,1
+2077,Spain,Micro Computer Data Processor,urban,0.02%,2
+2078,Spain,Naval Tactical Data System--Combat Information Center Officer,urban,0.04%,3
+2079,Spain,"Operations Officer, Afloat (Naval Tactical Data Systems)",urban,0.01%,1
+2080,Spain,Oracle Database Administrator (Oracle DBA),urban,0.09%,7
+2081,Spain,Reference Data Expert,rural,0.01%,1
+2082,Spain,Reference Data Expert,urban,0.01%,1
+2083,Spain,SCADA Operator (Supervisory Control and Data Acquisition Operator),urban,0.01%,1
+2084,Spain,SCADA Technician (Supervisory Control and Data Acquisition Technician),urban,0.01%,1
+2085,Spain,SQL Database Administrator,rural,0.04%,3
+2086,Spain,SQL Database Administrator,urban,0.06%,5
+2087,Spain,Scientific Database Curator,urban,0.02%,2
+2088,Spain,Survey Data Technician,urban,0.01%,1
+2089,Spain,Unemployed,rural,1.31%,108
+2090,Spain,Unemployed,urban,3.83%,315
+2091,Spain,Voice and Data Technician,urban,0.02%,2
+2092,Spain,Weight in Motion Field Data Collection Technician,urban,0.05%,4
+2093,Sweden,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.02%,2
+2094,Sweden,Automatic Data Processing Planner,urban,0.05%,4
+2095,Sweden,Automatic Data Processing Planner (ADP Planner),urban,0.02%,2
+2096,Sweden,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.01%,1
+2097,Sweden,Clinical Data Management Manager (CDM Manager),urban,0.01%,1
+2098,Sweden,Computer or Data Processing Systems Consultant,urban,0.02%,2
+2099,Sweden,Crime Data Specialist,urban,0.01%,1
+2100,Sweden,Data Acquisition Technician,rural,0.01%,1
+2101,Sweden,Data Administrator,rural,0.01%,1
+2102,Sweden,Data Analysis Assistant,urban,0.01%,1
+2103,Sweden,Data Center Operator,urban,0.01%,1
+2104,Sweden,Data Coder Operator,urban,0.02%,2
+2105,Sweden,Data Collection Technician,rural,0.01%,1
+2106,Sweden,Data Communications Analyst,rural,0.01%,1
+2107,Sweden,Data Communications Software Consultant,urban,0.01%,1
+2108,Sweden,Data Conversion Operator,rural,0.01%,1
+2109,Sweden,Data Coordinator,urban,0.02%,2
+2110,Sweden,Data Entry Associate,urban,0.01%,1
+2111,Sweden,Data Entry Operator,urban,0.01%,1
+2112,Sweden,Data Entry Representative,rural,0.01%,1
+2113,Sweden,Data Management Information Technology Specialist,urban,0.01%,1
+2114,Sweden,Data Modeler,urban,0.01%,1
+2115,Sweden,Data Modeling Specialist,rural,0.01%,1
+2116,Sweden,Data Officer,urban,0.02%,2
+2117,Sweden,Data Processing Manager,rural,0.01%,1
+2118,Sweden,Data Processing Manager,urban,0.02%,2
+2119,Sweden,Data Reduction Technician,urban,0.01%,1
+2120,Sweden,Data Scientist,urban,0.02%,2
+2121,Sweden,Data Security Administrator,urban,0.01%,1
+2122,Sweden,Data Security Analyst,urban,0.01%,1
+2123,Sweden,Data Systems Manager,urban,0.01%,1
+2124,Sweden,Data Transcriber,rural,0.01%,1
+2125,Sweden,Data Typist,urban,0.02%,2
+2126,Sweden,Data Warehouse Analyst,urban,0.01%,1
+2127,Sweden,Data Warehouse Architect,urban,0.01%,1
+2128,Sweden,Data Warehouse Developer,urban,0.01%,1
+2129,Sweden,Data Warehouse Specialist,urban,0.01%,1
+2130,Sweden,Data Warehousing Engineer,urban,0.01%,1
+2131,Sweden,Data Warehousing Specialist,urban,0.01%,1
+2132,Sweden,Database Administration Associate,urban,0.01%,1
+2133,Sweden,Database Architect,rural,0.01%,1
+2134,Sweden,Database Consultant,urban,0.01%,1
+2135,Sweden,Database Coordinator,urban,0.02%,2
+2136,Sweden,Database Design Analyst,rural,0.01%,1
+2137,Sweden,Database Design Analyst,urban,0.01%,1
+2138,Sweden,Database Designer,urban,0.02%,2
+2139,Sweden,Database Developer,urban,0.01%,1
+2140,Sweden,Database Development Project Manager,urban,0.01%,1
+2141,Sweden,Database Development and Administration Project Manager,rural,0.01%,1
+2142,Sweden,Database Development and Administration Project Manager,urban,0.02%,2
+2143,Sweden,Database Management System Specialist (DBMS Specialist),rural,0.02%,2
+2144,Sweden,Database Manager,rural,0.01%,1
+2145,Sweden,Database Manager,urban,0.01%,1
+2146,Sweden,Database Marketing Analyst,urban,0.02%,2
+2147,Sweden,Database Modeler,urban,0.02%,2
+2148,Sweden,Database Programmer,urban,0.01%,1
+2149,Sweden,Database Security Administrator,rural,0.01%,1
+2150,Sweden,Database Security Administrator,urban,0.02%,2
+2151,Sweden,Database Software Technician,urban,0.01%,1
+2152,Sweden,Database Specialist,urban,0.02%,2
+2153,Sweden,Database Tester,urban,0.01%,1
+2154,Sweden,Databases Computer Consultant,urban,0.01%,1
+2155,Sweden,"Engineer, System Electronic Data Processing (Engineer, System EDP)",rural,0.01%,1
+2156,Sweden,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.01%,1
+2157,Sweden,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.01%,1
+2158,Sweden,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.02%,2
+2159,Sweden,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.01%,1
+2160,Sweden,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.01%,1
+2161,Sweden,Head of Information Systems and Data Processing,urban,0.01%,1
+2162,Sweden,Naval Tactical Data System--Combat Information Center Officer,urban,0.01%,1
+2163,Sweden,Oracle Database Administrator (Oracle DBA),urban,0.01%,1
+2164,Sweden,SQL Database Administrator,rural,0.01%,1
+2165,Sweden,Survey Data Technician,urban,0.01%,1
+2166,Sweden,Unemployed,rural,0.36%,30
+2167,Sweden,Unemployed,urban,0.62%,51

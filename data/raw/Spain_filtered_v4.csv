@@ -1,0 +1,185 @@
+,Country,Job_title,Rural,Percentage,Quantity
+0,Spain,Analytical Data Miner,urban,0.01%,1
+1,Spain,Automatic Data Processing Customer Liaison (ADP Customer Liaison),rural,0.02%,2
+2,Spain,Automatic Data Processing Customer Liaison (ADP Customer Liaison),urban,0.11%,9
+3,Spain,Automatic Data Processing Planner,rural,0.01%,1
+4,Spain,Automatic Data Processing Planner,urban,0.1%,8
+5,Spain,Automatic Data Processing Planner (ADP Planner),urban,0.13%,11
+6,Spain,Automatic Data Processing Systems Security Specialist (ADP Systems Security),rural,0.02%,2
+7,Spain,Automatic Data Processing Systems Security Specialist (ADP Systems Security),urban,0.06%,5
+8,Spain,Business Database Analyst,urban,0.02%,2
+9,Spain,Clinical Data Abstractor,urban,0.01%,1
+10,Spain,Clinical Data Associate,urban,0.02%,2
+11,Spain,Clinical Data Management Manager (CDM Manager),rural,0.01%,1
+12,Spain,Clinical Data Management Manager (CDM Manager),urban,0.02%,2
+13,Spain,Clinical Data Manager,urban,0.02%,2
+14,Spain,Clinical Data Specialist,urban,0.01%,1
+15,Spain,Computer or Data Processing Systems Consultant,rural,0.01%,1
+16,Spain,Computer or Data Processing Systems Consultant,urban,0.1%,8
+17,Spain,Crime Data Specialist,urban,0.01%,1
+18,Spain,Data Administrator,urban,0.02%,2
+19,Spain,Data Analysis Assistant,urban,0.01%,1
+20,Spain,Data Analyst,urban,0.01%,1
+21,Spain,Data Architect,rural,0.01%,1
+22,Spain,Data Architect,urban,0.09%,7
+23,Spain,Data Base Design Analyst,urban,0.07%,6
+24,Spain,Data Collector,rural,0.01%,1
+25,Spain,Data Communications Analyst,urban,0.06%,5
+26,Spain,Data Communications Software Consultant,rural,0.01%,1
+27,Spain,Data Communications Software Consultant,urban,0.11%,9
+28,Spain,Data Communications Technician,urban,0.02%,2
+29,Spain,Data Compiler,rural,0.01%,1
+30,Spain,Data Compiler,urban,0.04%,3
+31,Spain,Data Control Clerk Supervisor,urban,0.01%,1
+32,Spain,Data Conversion Operator,urban,0.01%,1
+33,Spain,Data Coordinator,rural,0.01%,1
+34,Spain,Data Coordinator,urban,0.11%,9
+35,Spain,Data Entry Associate,rural,0.01%,1
+36,Spain,Data Entry Machine Operator,rural,0.02%,2
+37,Spain,Data Entry Machine Operator,urban,0.01%,1
+38,Spain,Data Entry Operator,urban,0.01%,1
+39,Spain,Data Entry Representative,urban,0.01%,1
+40,Spain,Data Entry Specialist,rural,0.01%,1
+41,Spain,Data Entry Supervisor,urban,0.01%,1
+42,Spain,Data Examination Clerk,urban,0.01%,1
+43,Spain,Data Input Clerk,urban,0.01%,1
+44,Spain,Data Keyer,urban,0.01%,1
+45,Spain,Data Management Associate,rural,0.01%,1
+46,Spain,Data Management Associate,urban,0.11%,9
+47,Spain,Data Management Information Technology Specialist,urban,0.06%,5
+48,Spain,Data Management Manager,urban,0.01%,1
+49,Spain,Data Miner,rural,0.02%,2
+50,Spain,Data Miner,urban,0.04%,3
+51,Spain,Data Modeler,urban,0.01%,1
+52,Spain,Data Modeling Specialist,rural,0.02%,2
+53,Spain,Data Modeling Specialist,urban,0.09%,7
+54,Spain,Data Officer,urban,0.02%,2
+55,Spain,Data Operations Director,urban,0.05%,4
+56,Spain,Data Processing Auditor,rural,0.01%,1
+57,Spain,Data Processing Auditor,urban,0.04%,3
+58,Spain,Data Processing Auxiliary Equipment Operator,urban,0.02%,2
+59,Spain,Data Processing Clerk,rural,0.01%,1
+60,Spain,Data Processing Clerk,urban,0.02%,2
+61,Spain,Data Processing Consultant,rural,0.01%,1
+62,Spain,Data Processing Consultant,urban,0.06%,5
+63,Spain,Data Processing Equipment Repairer,rural,0.01%,1
+64,Spain,Data Processing Equipment Repairer,urban,0.04%,3
+65,Spain,Data Processing Manager,urban,0.1%,8
+66,Spain,Data Processing Mechanic,urban,0.01%,1
+67,Spain,Data Processing Supervisor,urban,0.02%,2
+68,Spain,Data Processing Systems Analyst,rural,0.01%,1
+69,Spain,Data Processing Systems Analyst,urban,0.11%,9
+70,Spain,Data Processing Systems Project Planner,rural,0.01%,1
+71,Spain,Data Processing Systems Project Planner,urban,0.09%,7
+72,Spain,Data Recovery Planner,rural,0.01%,1
+73,Spain,Data Recovery Planner,urban,0.01%,1
+74,Spain,Data Reduction Technician,urban,0.05%,4
+75,Spain,Data Reviewer,urban,0.01%,1
+76,Spain,Data Sciences Director,rural,0.01%,1
+77,Spain,Data Sciences Director,urban,0.05%,4
+78,Spain,Data Scientist,urban,0.09%,7
+79,Spain,Data Security Administrator,rural,0.02%,2
+80,Spain,Data Security Administrator,urban,0.11%,9
+81,Spain,Data Security Analyst,rural,0.02%,2
+82,Spain,Data Security Analyst,urban,0.1%,8
+83,Spain,Data Storage Specialist,rural,0.01%,1
+84,Spain,Data Storage Specialist,urban,0.05%,4
+85,Spain,Data Systems Manager,rural,0.01%,1
+86,Spain,Data Systems Manager,urban,0.12%,10
+87,Spain,Data Technician,urban,0.02%,2
+88,Spain,Data Transcriber,urban,0.02%,2
+89,Spain,Data Typist,urban,0.01%,1
+90,Spain,Data Warehouse Analyst,rural,0.01%,1
+91,Spain,Data Warehouse Analyst,urban,0.09%,7
+92,Spain,Data Warehouse Architect,rural,0.01%,1
+93,Spain,Data Warehouse Architect,urban,0.1%,8
+94,Spain,Data Warehouse Developer,urban,0.02%,2
+95,Spain,Data Warehouse Specialist,rural,0.02%,2
+96,Spain,Data Warehouse Specialist,urban,0.09%,7
+97,Spain,Data Warehousing Engineer,rural,0.01%,1
+98,Spain,Data Warehousing Engineer,urban,0.05%,4
+99,Spain,Data Warehousing Manager,urban,0.06%,5
+100,Spain,Data Warehousing Specialist,urban,0.04%,3
+101,Spain,Database Administration Associate,urban,0.09%,7
+102,Spain,Database Administration Manager,rural,0.04%,3
+103,Spain,Database Administration Manager,urban,0.06%,5
+104,Spain,Database Administration Project Manager,urban,0.02%,2
+105,Spain,Database Architect,rural,0.01%,1
+106,Spain,Database Architect,urban,0.09%,7
+107,Spain,Database Consultant,urban,0.04%,3
+108,Spain,Database Coordinator,rural,0.04%,3
+109,Spain,Database Coordinator,urban,0.11%,9
+110,Spain,Database Design Analyst,urban,0.05%,4
+111,Spain,Database Designer,rural,0.04%,3
+112,Spain,Database Designer,urban,0.02%,2
+113,Spain,Database Developer,urban,0.01%,1
+114,Spain,Database Development Project Manager,rural,0.01%,1
+115,Spain,Database Development Project Manager,urban,0.01%,1
+116,Spain,Database Development and Administration Project Manager,rural,0.02%,2
+117,Spain,Database Development and Administration Project Manager,urban,0.13%,11
+118,Spain,Database Engineer,rural,0.01%,1
+119,Spain,Database Engineer,urban,0.12%,10
+120,Spain,Database Management System Specialist (DBMS Specialist),rural,0.04%,3
+121,Spain,Database Management System Specialist (DBMS Specialist),urban,0.12%,10
+122,Spain,Database Manager,rural,0.01%,1
+123,Spain,Database Manager,urban,0.1%,8
+124,Spain,Database Marketing Analyst,rural,0.02%,2
+125,Spain,Database Marketing Analyst,urban,0.05%,4
+126,Spain,Database Modeler,rural,0.01%,1
+127,Spain,Database Modeler,urban,0.01%,1
+128,Spain,Database Security Administrator,rural,0.01%,1
+129,Spain,Database Security Administrator,urban,0.09%,7
+130,Spain,Database Security Expert,rural,0.02%,2
+131,Spain,Database Security Expert,urban,0.07%,6
+132,Spain,Database Software Technician,rural,0.02%,2
+133,Spain,Database Software Technician,urban,0.07%,6
+134,Spain,Database Specialist,rural,0.01%,1
+135,Spain,Database Specialist,urban,0.05%,4
+136,Spain,Database Technician,urban,0.01%,1
+137,Spain,Database Tester,rural,0.01%,1
+138,Spain,Database Tester,urban,0.02%,2
+139,Spain,Databases Computer Consultant,rural,0.01%,1
+140,Spain,Databases Computer Consultant,urban,0.05%,4
+141,Spain,Databases Software Consultant,urban,0.09%,7
+142,Spain,Datastage Developer,urban,0.01%,1
+143,Spain,Director of Data Operations,urban,0.1%,8
+144,Spain,Electronic Data Interchange System Developer (EDI System Developer),urban,0.11%,9
+145,Spain,Electronic Data Processing Auditor (EDP Auditor),urban,0.07%,6
+146,Spain,"Engineer, System Electronic Data Processing (Engineer, System EDP)",urban,0.06%,5
+147,Spain,Field Artillery Automated Tactical Data System Specialist,urban,0.02%,2
+148,Spain,Field Traffic Data Technician,urban,0.01%,1
+149,Spain,Flight Data Technician,urban,0.01%,1
+150,Spain,Flight Test Data Acquisition Technician,urban,0.04%,3
+151,Spain,Geographic Information Systems Data Administrator (GIS Data Administrator),rural,0.01%,1
+152,Spain,Geographic Information Systems Data Administrator (GIS Data Administrator),urban,0.1%,8
+153,Spain,Geographic Information Systems Data Manager (GIS Data Manager),rural,0.04%,3
+154,Spain,Geographic Information Systems Data Manager (GIS Data Manager),urban,0.09%,7
+155,Spain,Geographic Information Systems Data Specialist (GIS Data Specialist),urban,0.06%,5
+156,Spain,Geographic Information Systems Database Administrator (GIS Database Administrator),rural,0.01%,1
+157,Spain,Geographic Information Systems Database Administrator (GIS Database Administrator),urban,0.09%,7
+158,Spain,Head of Information Systems and Data Processing,rural,0.02%,2
+159,Spain,Head of Information Systems and Data Processing,urban,0.07%,6
+160,Spain,Health Data Analyst,urban,0.02%,2
+161,Spain,Internet Database Specialist,rural,0.02%,2
+162,Spain,Internet Database Specialist,urban,0.01%,1
+163,Spain,LiDAR Data Analyst,urban,0.02%,2
+164,Spain,Maintenance Data Analyst,urban,0.01%,1
+165,Spain,Marketing Database Analyst,rural,0.01%,1
+166,Spain,Medical Data Analyst,urban,0.01%,1
+167,Spain,Micro Computer Data Processor,rural,0.01%,1
+168,Spain,Micro Computer Data Processor,urban,0.02%,2
+169,Spain,Naval Tactical Data System--Combat Information Center Officer,urban,0.04%,3
+170,Spain,"Operations Officer, Afloat (Naval Tactical Data Systems)",urban,0.01%,1
+171,Spain,Oracle Database Administrator (Oracle DBA),urban,0.09%,7
+172,Spain,Reference Data Expert,rural,0.01%,1
+173,Spain,Reference Data Expert,urban,0.01%,1
+174,Spain,SCADA Operator (Supervisory Control and Data Acquisition Operator),urban,0.01%,1
+175,Spain,SCADA Technician (Supervisory Control and Data Acquisition Technician),urban,0.01%,1
+176,Spain,SQL Database Administrator,rural,0.04%,3
+177,Spain,SQL Database Administrator,urban,0.06%,5
+178,Spain,Scientific Database Curator,urban,0.02%,2
+179,Spain,Survey Data Technician,urban,0.01%,1
+180,Spain,Unemployed,rural,1.31%,108
+181,Spain,Unemployed,urban,3.83%,315
+182,Spain,Voice and Data Technician,urban,0.02%,2
+183,Spain,Weight in Motion Field Data Collection Technician,urban,0.05%,4
